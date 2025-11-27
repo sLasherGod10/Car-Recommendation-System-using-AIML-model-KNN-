@@ -1,0 +1,269 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="min-h-screen relative overflow-hidden">
+  <!-- Background -->
+  <div class="fixed inset-0 -z-10">
+    <img src="https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2400&q=90"
+         alt="Luxury car background"
+         class="w-full h-full object-cover">
+    <div class="absolute inset-0 bg-gradient-to-r from-black/90 via-black/60 to-transparent"></div>
+  </div>
+
+  <div class="relative z-10 min-h-screen flex items-center py-16 px-6">
+    <div class="max-w-7xl mx-auto w-full grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+
+      <!-- LEFT: Hero + Form -->
+      <div class="space-y-12">
+        <!-- Hero Text -->
+        <div class="text-left">
+          <h1 class="text-5xl md:text-7xl font-extrabold text-white mb-6 leading-tight">
+            <span class="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400">
+              Find Your<br>Perfect Ride
+            </span>
+          </h1>
+          <p class="text-xl md:text-2xl text-gray-200 font-light max-w-lg leading-relaxed">
+            AI-powered recommendations tailored to your budget, style, and dreams.
+          </p>
+          <div class="mt-8 flex flex-wrap gap-6 text-sm text-gray-300">
+            <span>Real-time Matching</span>
+            <span>Smart Filtering</span>
+            <span>Trusted by 50K+ Drivers</span>
+          </div>
+        </div>
+
+        <!-- Elegant Form Card -->
+        <div class="glass rounded-3xl shadow-2xl border border-white/20 p-8 md:p-10 backdrop-blur-xl">
+          <form method="POST" class="space-y-8">
+            
+            <!-- Dataset Selection - NOW WORKING -->
+            <div>
+              <label class="text-purple-300 font-medium">Choose Dataset</label>
+              <select name="selected_dataset" required
+                      class="mt-2 w-full px-5 py-4 bg-white/10 border border-white/30 rounded-2xl text-white focus:ring-4 focus:ring-purple-500 transition-all">
+                {% if datasets %}
+                  {% for ds in datasets %}
+                    <option value="{{ ds }}">{{ ds }}</option>
+                  {% endfor %}
+                {% else %}
+                  <option value="">No datasets available</option>
+                {% endif %}
+              </select>
+            </div>
+            
+
+            <!-- Budget & Mileage -->
+            <div class="grid grid-cols-2 gap-6">
+              <div>
+                <label class="text-gray-300">Budget (₹ Lakh)</label>
+                <input name="budget" type="number" step="0.1" placeholder="25" required 
+                       class="mt-2 w-full px-5 py-4 bg-white/10 border border-white/30 rounded-2xl text-white placeholder-gray-400 focus:ring-4 focus:ring-blue-500">
+              </div>
+              <div>
+                <label class="text-gray-300">Min Mileage (kmpl)</label>
+                <input name="mileage" type="number" step="0.1" placeholder="15" required 
+                       class="mt-2 w-full px-5 py-4 bg-white/10 border border-white/30 rounded-2xl text-white focus:ring-4 focus:ring-blue-500">
+              </div>
+            </div>
+
+            <!-- Preferences Grid -->
+            <div class="grid grid-cols-2 gap-5 text-sm">
+              <div><label class="text-gray-300">Seating</label><input name="seating" type="number" placeholder="5" required class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"></div>
+              <div><label class="text-gray-300">Type</label><select name="car_type" required class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"><option>SUV</option><option>Sedan</option><option>Hatchback</option><option>MUV</option></select></div>
+              <div><label class="text-gray-300">Fuel</label><select name="fuel" required class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"><option>Petrol</option><option>Diesel</option><option>Electric</option></select></div>
+              <div><label class="text-gray-300">Transmission</label><select name="transmission" required class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"><option>Manual</option><option>Automatic</option></select></div>
+              <div><label class="text-gray-300">Condition</label><select name="condition" required class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"><option>New</option><option>Used</option></select></div>
+              <div><label class="text-gray-300">Style</label><select name="features" required class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"><option>Luxury</option><option>Sporty</option><option>Family</option></select></div>
+              <div><label class="text-gray-300">Color</label><select name="car_color" required class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"><option>Black</option><option>White</option><option>Silver</option><option>Red</option><option>Blue</option></select></div>
+              <div><label class="text-gray-300">Graph</label><select name="graph_type" class="mt-1 w-full px-4 py-3 bg-white/10 border border-white/30 rounded-xl text-white"><option value="distance">Distance Chart</option><option value="pca">PCA Scatter</option></select></div>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit"
+                    class="w-full py-5 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white text-xl font-bold rounded-2xl shadow-xl transform transition-all hover:scale-105 active:scale-95">
+              Find My Dream Car
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <!-- RIGHT: Auto-Playing Slideshow (Local JPG Images) -->
+<div class="relative h-[600px] lg:h-auto min-h-[600px] rounded-3xl overflow-hidden shadow-3xl border border-white/10">
+  <div class="slideshow-container">
+
+    <!-- Slide 1 -->
+    <div class="slide fade">
+      <img src="{{ url_for('static', filename='images/image1.jpg') }}" 
+           class="w-full h-full object-cover brightness-90" alt="Car 1">
+      <div class="absolute bottom-10 left-10 text-white">
+        <h3 class="text-5xl md:text-6xl font-extrabold mb-2">Your Dream Car</h3>
+        <p class="text-xl md:text-2xl opacity-90">Luxury • Power • Style</p>
+      </div>
+    </div>
+
+    <!-- Slide 2 -->
+    <div class="slide fade">
+      <img src="{{ url_for('static', filename='images/image2.jpg') }}" 
+           class="w-full h-full object-cover brightness-90" alt="Car 2">
+      <div class="absolute bottom-10 left-10 text-white">
+        <h3 class="text-5xl md:text-6xl font-extrabold mb-2">Unmatched Performance</h3>
+        <p class="text-xl md:text-2xl opacity-90">Feel the Thrill</p>
+      </div>
+    </div>
+
+    <!-- Slide 3 -->
+    <div class="slide fade">
+      <img src="{{ url_for('static', filename='images/image3.jpg') }}" 
+           class="w-full h-full object-cover brightness-90" alt="Car 3">
+      <div class="absolute bottom-10 left-10 text-white">
+        <h3 class="text-5xl md:text-6xl font-extrabold mb-2">Born to Rule</h3>
+        <p class="text-xl md:text-2xl opacity-90">Command the Road</p>
+      </div>
+    </div>
+
+    <!-- Slide 4 -->
+    <div class="slide fade">
+      <img src="{{ url_for('static', filename='images/image4.jpg') }}" 
+           class="w-full h-full object-cover brightness-90" alt="Car 4">
+      <div class="absolute bottom-10 left-10 text-white">
+        <h3 class="text-5xl md:text-6xl font-extrabold mb-2">Pure Elegance</h3>
+        <p class="text-xl md:text-2xl opacity-90">Timeless Design</p>
+      </div>
+    </div>
+
+    <!-- Slide 5 -->
+    <div class="slide fade">
+      <img src="{{ url_for('static', filename='images/image5.jpg') }}" 
+           class="w-full h-full object-cover brightness-90" alt="Car 5">
+      <div class="absolute bottom-10 left-10 text-white">
+        <h3 class="text-5xl md:text-6xl font-extrabold mb-2">Adventure Awaits</h3>
+        <p class="text-xl md:text-2xl opacity-90">Go Beyond Limits</p>
+      </div>
+    </div>
+
+    <!-- Slide 6 (Optional - Add more if needed) -->
+    <div class="slide fade">
+      <img src="{{ url_for('static', filename='images/image6.jpeg') }}" 
+           class="w-full h-full object-cover brightness-90" alt="Car 6">
+      <div class="absolute bottom-10 left-10 text-white">
+        <h3 class="text-5xl md:text-6xl font-extrabold mb-2">The Future is Here</h3>
+        <p class="text-xl md:text-2xl opacity-90">Drive Tomorrow Today</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Navigation Dots (6 dots) -->
+  <div class="absolute bottom-8 left-1/2 -translate-x-1/2 flex space-x-4 z-10">
+    <span class="dot w-3 h-3 bg-white/60 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+    <span class="dot w-3 h-3 bg-white/60 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+    <span class="dot w-3 h-3 bg-white/60 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+    <span class="dot w-3 h-3 bg-white/60 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+    <span class="dot w-3 h-3 bg-white/60 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+    <span class="dot w-3 h-3 bg-white/60 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+  </div>
+</div>
+
+        <!-- Dots -->
+        <div class="absolute bottom-6 left-1/2 -translate-x-1/2 flex space-x-3">
+          <span class="dot w-3 h-3 bg-white/50 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+          <span class="dot w-3 h-3 bg-white/50 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+          <span class="dot w-3 h-3 bg-white/50 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+          <span class="dot w-3 h-3 bg-white/50 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+          <span class="dot w-3 h-3 bg-white/50 rounded-full cursor-pointer hover:bg-white transition-all"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Results Section -->
+  {% if result %}
+  <div class="relative py-24 px-6 bg-gradient-to-t from-black/90 via-black/50 to-transparent">
+    <div class="max-w-7xl mx-auto">
+      <h2 class="text-5xl md:text-6xl font-extrabold text-center text-white mb-16">
+        <span class="bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-pink-500">
+          Your Top 5 Matches
+        </span>
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        {% for car in top5 %}
+        <div class="glass rounded-3xl p-8 hover:scale-105 transition-all duration-500 border border-white/20 shadow-2xl">
+          <h3 class="text-3xl font-bold text-white mb-4">{{ car.Car_Name }}</h3>
+          <div class="space-y-3 text-gray-300">
+            {% for key, value in car.items() %}
+              {% if key not in ["Car_Name", "Distance"] %}
+                <div class="flex justify-between">
+                  <span class="text-gray-400">{{ key.replace('_', ' ') | title }}</span>
+                  <span class="font-medium">{{ value }}</span>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+          <div class="mt-6 pt-6 border-t border-white/20 text-2xl font-bold text-yellow-400">
+            Match Score: {{ '%.3f'|format(car.Distance) }}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+      {% if graph_path %}
+      <div class="mt-20 text-center">
+        <div class="inline-block glass rounded-3xl p-10 shadow-3xl border border-white/20">
+          <img src="data:image/png;base64,{{ graph_path }}" class="max-w-full rounded-2xl shadow-2xl border border-white/10">
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+</div>
+
+<!-- Slideshow Script -->
+<script>
+  let slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    let slides = document.getElementsByClassName("slide");
+    let dots = document.getElementsByClassName("dot");
+
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+      dots[i].classList.remove("bg-white");
+      dots[i].classList.add("bg-white/50");
+    }
+
+    slideIndex++;
+    if (slideIndex > slides.length) slideIndex = 1;
+
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].classList.remove("bg-white/50");
+    dots[slideIndex - 1].classList.add("bg-white");
+
+    setTimeout(showSlides, 4500);
+  }
+
+  // Dot click
+  document.querySelectorAll('.dot').forEach((dot, i) => {
+    dot.addEventListener('click', () => {
+      slideIndex = i;
+      showSlides();
+    });
+  });
+</script>
+
+<!-- Essential CSS -->
+<style>
+  .glass {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+  .slideshow-container { position: relative; height: 100%; }
+  .slide { display: none; height: 100%; position: relative; }
+  .slide img { filter: brightness(0.85); transition: all 1.5s; }
+  .fade { animation: fade 2s; }
+  @keyframes fade { from {opacity: 0.6} to {opacity: 1} }
+</style>
+
+{% endblock %}

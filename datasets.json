@@ -1,0 +1,6 @@
+{
+    "mix.csv": "datasets\\mix.csv",
+    "car_dataset.csv": "datasets\\car_dataset.csv",
+    "family.csv": "datasets\\family.csv",
+    "luxury.csv": "datasets\\luxury.csv"
+}

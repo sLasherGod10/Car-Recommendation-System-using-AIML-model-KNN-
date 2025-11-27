@@ -1,0 +1,31 @@
+Car_ID,Brand,Model,Year,Fuel_Type,Transmission,Engine_CC,Mileage_Kmpl,Price_Lakh
+1,Maruti Suzuki,Swift,2020,Petrol,Manual,1197,22,6.5
+2,Hyundai,Creta,2021,Diesel,Automatic,1497,18,17.0
+3,Tata,Nexon,2019,Petrol,Manual,1498,24,10.0
+4,Mahindra,XUV300,2022,Diesel,Automatic,1999,15,14.0
+5,Honda,City,2023,CNG,Manual,998,20,12.0
+6,Toyota,Innova,2020,Petrol,Automatic,1197,22,6.5
+7,Kia,Seltos,2021,Diesel,Manual,1497,18,17.0
+8,Renault,Kwid,2019,Petrol,Automatic,1498,24,10.0
+9,Skoda,Rapid,2022,Diesel,Manual,1999,15,14.0
+10,Volkswagen,Polo,2023,CNG,Automatic,998,20,12.0
+11,Maruti Suzuki,Swift,2020,Petrol,Manual,1197,22,6.5
+12,Hyundai,Creta,2021,Diesel,Automatic,1497,18,17.0
+13,Tata,Nexon,2019,Petrol,Manual,1498,24,10.0
+14,Mahindra,XUV300,2022,Diesel,Automatic,1999,15,14.0
+15,Honda,City,2023,CNG,Manual,998,20,12.0
+16,Toyota,Innova,2020,Petrol,Automatic,1197,22,6.5
+17,Kia,Seltos,2021,Diesel,Manual,1497,18,17.0
+18,Renault,Kwid,2019,Petrol,Automatic,1498,24,10.0
+19,Skoda,Rapid,2022,Diesel,Manual,1999,15,14.0
+20,Volkswagen,Polo,2023,CNG,Automatic,998,20,12.0
+21,Maruti Suzuki,Swift,2020,Petrol,Manual,1197,22,6.5
+22,Hyundai,Creta,2021,Diesel,Automatic,1497,18,17.0
+23,Tata,Nexon,2019,Petrol,Manual,1498,24,10.0
+24,Mahindra,XUV300,2022,Diesel,Automatic,1999,15,14.0
+25,Honda,City,2023,CNG,Manual,998,20,12.0
+26,Toyota,Innova,2020,Petrol,Automatic,1197,22,6.5
+27,Kia,Seltos,2021,Diesel,Manual,1497,18,17.0
+28,Renault,Kwid,2019,Petrol,Automatic,1498,24,10.0
+29,Skoda,Rapid,2022,Diesel,Manual,1999,15,14.0
+30,Volkswagen,Polo,2023,CNG,Automatic,998,20,12.0

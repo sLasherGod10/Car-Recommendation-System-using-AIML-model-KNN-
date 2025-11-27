@@ -1,0 +1,501 @@
+Car_Name,Budget_Lakh,Mileage_kmpl,Seating_Capacity,Car_Type,Fuel_Type,Transmission,Condition,User_Needs,Car_Color,Target
+Mahindra Thar,21.45,20.0,4,Sedan,Electric,Manual,Used,Family,Silver,Not Recommended
+Mahindra Bolero,25.28,22.4,4,SUV,Diesel,Manual,Used,Family,Silver,Recommended
+Kia Seltos,21.98,19.2,7,Sedan,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Mahindra XUV300,28.73,16.1,5,Sedan,Electric,Manual,New,Family,Black,Not Recommended
+Kia Sonet,7.0,15.8,5,SUV,Electric,Manual,Used,Family,Blue,Not Recommended
+Tata Altroz,24.45,11.1,7,Hatchback,Diesel,Automatic,Used,Family,Blue,Recommended
+Tata Tiago,8.16,15.4,7,SUV,Electric,Automatic,Used,Family,Black,Recommended
+Honda Civic,39.35,24.5,6,SUV,Electric,Manual,New,Family,Red,Recommended
+Toyota Glanza,14.65,22.8,4,Hatchback,Electric,Manual,Used,Family,Silver,Not Recommended
+Hyundai Verna,36.92,10.1,4,SUV,Diesel,Manual,New,Family,Red,Recommended
+Tata Safari,29.54,14.4,7,SUV,Diesel,Automatic,Used,Family,Red,Recommended
+Honda Jazz,38.36,12.9,6,Hatchback,Diesel,Manual,New,Family,Blue,Not Recommended
+Maruti Alto,41.7,13.2,4,Sedan,Petrol,Manual,New,Family,Black,Not Recommended
+Mahindra XUV300,30.4,17.6,7,Hatchback,Diesel,Automatic,New,Family,White,Not Recommended
+Kia Carens,37.04,13.0,6,Hatchback,Diesel,Automatic,New,Family,White,Recommended
+Toyota Innova,19.71,24.0,4,Sedan,Petrol,Automatic,Used,Family,Black,Recommended
+Hyundai Aura,21.21,10.2,7,SUV,Electric,Manual,New,Family,Blue,Recommended
+Hyundai Elantra,32.49,11.6,6,SUV,Petrol,Automatic,Used,Family,Black,Not Recommended
+Tata Safari,7.28,17.6,5,SUV,Diesel,Manual,New,Family,Silver,Not Recommended
+Honda City,19.28,23.2,5,SUV,Electric,Automatic,New,Family,Red,Recommended
+Mahindra Bolero,35.76,13.3,5,SUV,Petrol,Manual,New,Family,Blue,Recommended
+Kia Sonet,5.5,21.3,6,Hatchback,Petrol,Manual,New,Family,Red,Recommended
+Tata Tiago,10.1,24.1,6,SUV,Petrol,Manual,Used,Family,White,Not Recommended
+Maruti Swift,31.55,23.1,6,Sedan,Electric,Automatic,New,Family,Silver,Not Recommended
+Hyundai i20,32.51,23.0,5,SUV,Electric,Manual,Used,Family,Black,Not Recommended
+Maruti Dzire,11.11,11.7,7,Hatchback,Petrol,Automatic,Used,Family,Blue,Recommended
+Tata Altroz,7.51,21.8,7,Sedan,Diesel,Manual,New,Family,Red,Not Recommended
+Maruti Baleno,19.57,24.7,7,SUV,Diesel,Manual,Used,Family,Red,Not Recommended
+Mahindra Scorpio,14.65,16.4,4,Hatchback,Diesel,Automatic,Used,Family,Black,Recommended
+Tata Harrier,12.69,24.3,6,SUV,Electric,Automatic,Used,Family,Red,Not Recommended
+Honda WR-V,29.02,22.4,6,Hatchback,Diesel,Automatic,Used,Family,Black,Recommended
+Hyundai i20,37.07,14.1,6,SUV,Petrol,Manual,Used,Family,Black,Recommended
+Mahindra Bolero,8.5,20.6,4,Sedan,Petrol,Automatic,New,Family,Blue,Not Recommended
+Tata Altroz,32.97,15.1,6,Hatchback,Electric,Automatic,New,Family,Blue,Recommended
+Tata Nexon,9.61,11.0,7,Sedan,Diesel,Manual,New,Family,White,Recommended
+Toyota Innova,14.95,17.1,6,Hatchback,Electric,Automatic,New,Family,Black,Not Recommended
+Tata Tigor,14.2,10.4,4,Hatchback,Electric,Automatic,New,Family,Blue,Not Recommended
+Hyundai Verna,42.21,14.6,6,SUV,Petrol,Manual,Used,Family,Blue,Not Recommended
+Maruti Alto,20.35,10.1,6,Hatchback,Electric,Automatic,Used,Family,Red,Recommended
+Maruti Alto,38.04,22.0,5,SUV,Electric,Automatic,Used,Family,Black,Recommended
+Tata Hexa,22.61,20.3,7,Hatchback,Petrol,Automatic,Used,Family,Silver,Not Recommended
+Tata Punch,44.76,15.4,4,SUV,Electric,Manual,Used,Family,Black,Not Recommended
+Tata Punch,18.58,18.8,4,Hatchback,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Tata Nexon,15.84,18.6,6,Sedan,Electric,Manual,New,Family,Blue,Recommended
+Maruti Alto,29.4,18.7,7,SUV,Petrol,Manual,New,Family,Blue,Not Recommended
+Hyundai Aura,36.26,18.2,7,Sedan,Diesel,Manual,New,Family,Black,Recommended
+Kia Carens,7.57,19.5,7,Sedan,Diesel,Automatic,New,Family,White,Recommended
+Kia Sonet,44.23,11.0,5,SUV,Diesel,Manual,New,Family,Red,Recommended
+Toyota Fortuner,20.68,10.6,5,SUV,Petrol,Automatic,Used,Family,White,Recommended
+Mahindra Thar,40.82,22.7,7,SUV,Petrol,Automatic,New,Family,Blue,Not Recommended
+Honda Jazz,33.96,14.7,5,Hatchback,Petrol,Automatic,New,Family,Black,Not Recommended
+Maruti WagonR,11.42,22.7,5,Sedan,Petrol,Manual,Used,Family,White,Not Recommended
+Hyundai Aura,21.21,10.2,7,SUV,Electric,Manual,New,Family,Blue,Recommended
+Kia Seltos,17.31,24.4,4,Sedan,Electric,Automatic,Used,Family,Red,Not Recommended
+Maruti Alto,38.43,11.2,7,Hatchback,Petrol,Manual,Used,Family,Silver,Recommended
+Hyundai Aura,43.17,16.9,7,SUV,Electric,Automatic,New,Family,Black,Not Recommended
+Maruti Brezza,12.74,23.5,5,SUV,Diesel,Manual,Used,Family,Red,Recommended
+Maruti Dzire,5.33,22.5,7,Sedan,Petrol,Automatic,New,Family,Black,Not Recommended
+Honda Jazz,15.24,14.1,4,SUV,Petrol,Automatic,Used,Family,Blue,Recommended
+Kia Seltos,11.98,18.2,4,SUV,Electric,Automatic,New,Family,Red,Not Recommended
+Tata Harrier,30.1,24.4,6,Sedan,Petrol,Manual,New,Family,Silver,Recommended
+Honda Civic,4.48,19.1,4,Hatchback,Diesel,Automatic,New,Family,White,Recommended
+Tata Altroz,7.51,21.8,7,Sedan,Diesel,Manual,New,Family,Red,Not Recommended
+Honda Civic,23.67,19.8,4,Hatchback,Electric,Manual,Used,Family,Black,Recommended
+Tata Punch,35.2,20.4,7,Sedan,Electric,Manual,New,Family,Silver,Recommended
+Maruti Baleno,19.57,24.7,7,SUV,Diesel,Manual,Used,Family,Red,Not Recommended
+Mahindra Scorpio,9.59,19.4,7,SUV,Electric,Automatic,New,Family,Silver,Not Recommended
+Hyundai Elantra,7.26,17.5,7,Sedan,Petrol,Automatic,New,Family,Blue,Not Recommended
+Maruti WagonR,29.96,11.0,7,Sedan,Diesel,Automatic,Used,Family,Black,Recommended
+Mahindra Thar,23.7,12.8,6,Sedan,Petrol,Automatic,Used,Family,Red,Not Recommended
+Tata Altroz,10.16,20.7,6,Hatchback,Electric,Manual,Used,Family,White,Not Recommended
+Toyota Fortuner,9.26,18.3,4,SUV,Electric,Automatic,New,Family,Silver,Not Recommended
+Maruti Brezza,6.8,17.8,6,Hatchback,Electric,Manual,New,Family,Red,Not Recommended
+Tata Nexon,25.69,17.3,5,Hatchback,Electric,Manual,New,Family,Silver,Not Recommended
+Kia Carens,30.97,18.5,4,Hatchback,Electric,Automatic,Used,Family,Black,Recommended
+Tata Tiago,25.23,14.2,6,Sedan,Petrol,Automatic,Used,Family,Red,Not Recommended
+Hyundai Venue,12.03,19.4,4,SUV,Diesel,Automatic,Used,Family,Blue,Recommended
+Honda WR-V,5.01,11.7,5,Sedan,Diesel,Manual,New,Family,Red,Recommended
+Hyundai i20,27.39,15.2,4,SUV,Diesel,Automatic,Used,Family,Red,Not Recommended
+Hyundai Venue,36.08,18.1,6,SUV,Electric,Automatic,Used,Family,Silver,Recommended
+Honda Civic,14.13,23.6,7,SUV,Petrol,Automatic,New,Family,Blue,Recommended
+Toyota Fortuner,20.68,10.6,5,SUV,Petrol,Automatic,Used,Family,White,Recommended
+Hyundai i20,20.57,20.8,5,SUV,Petrol,Automatic,New,Family,Blue,Recommended
+Toyota Glanza,5.28,14.5,5,SUV,Petrol,Automatic,Used,Family,White,Recommended
+Honda CR-V,23.74,21.7,4,SUV,Petrol,Manual,Used,Family,Blue,Not Recommended
+Tata Harrier,5.88,11.7,5,Sedan,Petrol,Manual,New,Family,White,Not Recommended
+Tata Punch,9.36,24.1,6,Sedan,Electric,Automatic,Used,Family,Red,Not Recommended
+Mahindra XUV300,13.5,15.7,5,SUV,Petrol,Manual,Used,Family,Red,Not Recommended
+Kia Seltos,5.61,15.8,7,Sedan,Diesel,Manual,New,Family,Black,Recommended
+Hyundai Elantra,8.03,20.8,5,SUV,Electric,Manual,New,Family,White,Recommended
+Maruti Brezza,17.74,15.3,5,Sedan,Diesel,Manual,New,Family,Blue,Not Recommended
+Hyundai Elantra,31.37,13.5,4,Sedan,Petrol,Automatic,New,Family,Black,Not Recommended
+Honda Civic,5.04,21.0,5,Hatchback,Electric,Manual,New,Family,White,Recommended
+Hyundai Elantra,28.45,18.5,5,SUV,Electric,Manual,Used,Family,White,Recommended
+Tata Altroz,10.7,22.3,6,Sedan,Electric,Automatic,New,Family,Black,Not Recommended
+Honda Civic,39.63,18.4,5,SUV,Diesel,Automatic,New,Family,White,Recommended
+Hyundai Verna,42.21,14.6,6,SUV,Petrol,Manual,Used,Family,Blue,Not Recommended
+Hyundai Tucson,4.75,17.7,4,Sedan,Electric,Manual,New,Family,Red,Not Recommended
+Maruti Brezza,23.65,21.5,6,SUV,Electric,Manual,Used,Family,Red,Not Recommended
+Tata Tiago,33.44,23.3,5,SUV,Diesel,Manual,New,Family,Blue,Recommended
+Hyundai Elantra,40.7,13.6,7,Sedan,Petrol,Automatic,New,Family,Blue,Recommended
+Toyota Fortuner,5.58,10.7,6,Sedan,Electric,Automatic,New,Family,White,Recommended
+Maruti Baleno,5.5,16.1,6,SUV,Diesel,Manual,Used,Family,Blue,Not Recommended
+Kia Seltos,23.98,10.0,6,Hatchback,Electric,Manual,Used,Family,White,Not Recommended
+Hyundai Verna,33.28,11.3,6,SUV,Electric,Manual,New,Family,Red,Not Recommended
+Mahindra Bolero,32.5,11.1,6,Hatchback,Petrol,Manual,New,Family,White,Not Recommended
+Tata Tigor,4.5,12.9,5,Hatchback,Diesel,Manual,New,Family,Silver,Recommended
+Hyundai Elantra,8.03,20.8,5,SUV,Electric,Manual,New,Family,White,Recommended
+Maruti Baleno,30.66,15.8,4,Sedan,Diesel,Manual,Used,Family,Blue,Recommended
+Hyundai Elantra,31.37,13.5,4,Sedan,Petrol,Automatic,New,Family,Black,Not Recommended
+Maruti Baleno,28.2,14.6,7,Hatchback,Electric,Manual,Used,Family,Blue,Recommended
+Tata Nexon,22.84,11.1,4,Sedan,Diesel,Automatic,New,Family,White,Recommended
+Hyundai Creta,36.86,14.4,5,Hatchback,Diesel,Manual,Used,Family,White,Recommended
+Maruti Baleno,24.75,10.3,6,Sedan,Diesel,Manual,New,Family,Black,Not Recommended
+Hyundai Venue,36.08,18.1,6,SUV,Electric,Automatic,Used,Family,Silver,Recommended
+Maruti Dzire,5.33,22.5,7,Sedan,Petrol,Automatic,New,Family,Black,Not Recommended
+Hyundai Grand i10,12.99,14.6,7,Sedan,Electric,Manual,New,Family,Blue,Recommended
+Tata Tigor,5.28,22.8,6,Hatchback,Petrol,Automatic,Used,Family,Black,Not Recommended
+Hyundai Creta,33.49,10.9,6,SUV,Petrol,Manual,Used,Family,Silver,Recommended
+Toyota Fortuner,44.06,15.9,4,Hatchback,Electric,Automatic,New,Family,Black,Not Recommended
+Tata Altroz,27.9,10.5,4,Hatchback,Petrol,Automatic,Used,Family,Black,Not Recommended
+Honda CR-V,14.52,19.2,4,SUV,Electric,Manual,New,Family,Blue,Not Recommended
+Mahindra XUV300,30.4,17.6,7,Hatchback,Diesel,Automatic,New,Family,White,Not Recommended
+Honda Jazz,15.24,14.1,4,SUV,Petrol,Automatic,Used,Family,Blue,Recommended
+Toyota Glanza,44.45,14.3,6,Sedan,Electric,Automatic,Used,Family,Blue,Recommended
+Honda City,32.02,14.2,5,SUV,Diesel,Manual,New,Family,Blue,Not Recommended
+Tata Tiago,41.94,16.2,7,Hatchback,Petrol,Automatic,New,Family,White,Not Recommended
+Tata Nexon,44.87,13.0,4,SUV,Electric,Manual,Used,Family,Red,Recommended
+Tata Altroz,6.37,19.7,7,SUV,Diesel,Automatic,New,Family,White,Not Recommended
+Honda Amaze,7.08,17.2,4,Sedan,Diesel,Automatic,Used,Family,White,Not Recommended
+Kia Carnival,35.45,16.9,7,SUV,Electric,Manual,New,Family,White,Not Recommended
+Tata Tigor,16.72,23.4,5,Sedan,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Kia Sonet,37.86,19.8,6,Sedan,Petrol,Manual,New,Family,Red,Recommended
+Tata Hexa,14.89,11.3,7,Hatchback,Electric,Manual,New,Family,Blue,Recommended
+Honda Civic,29.97,19.6,4,Hatchback,Diesel,Manual,New,Family,Blue,Recommended
+Maruti Dzire,44.69,24.3,6,SUV,Electric,Manual,Used,Family,Black,Not Recommended
+Toyota Glanza,21.28,10.8,4,Hatchback,Diesel,Automatic,New,Family,Silver,Not Recommended
+Honda Jazz,13.46,14.3,4,Sedan,Electric,Manual,New,Family,Red,Recommended
+Mahindra Scorpio,16.02,19.2,4,Hatchback,Electric,Manual,Used,Family,Red,Recommended
+Tata Nexon,44.87,13.0,4,SUV,Electric,Manual,Used,Family,Red,Recommended
+Kia Sonet,21.56,13.6,4,Hatchback,Diesel,Automatic,New,Family,Black,Recommended
+Tata Punch,41.41,10.2,5,Hatchback,Electric,Automatic,New,Family,White,Not Recommended
+Hyundai Aura,44.01,22.4,4,SUV,Electric,Automatic,Used,Family,White,Recommended
+Tata Nexon,9.24,24.4,7,SUV,Electric,Automatic,New,Family,Silver,Recommended
+Hyundai Elantra,27.87,23.6,4,SUV,Electric,Automatic,New,Family,Blue,Recommended
+Toyota Innova,26.32,24.2,7,Sedan,Electric,Automatic,Used,Family,White,Not Recommended
+Mahindra XUV300,9.74,16.2,5,Hatchback,Petrol,Manual,New,Family,White,Not Recommended
+Hyundai Elantra,22.85,15.6,7,Sedan,Diesel,Automatic,New,Family,Blue,Not Recommended
+Tata Altroz,32.4,13.9,7,SUV,Electric,Manual,New,Family,Black,Not Recommended
+Honda WR-V,4.87,11.2,7,Sedan,Electric,Manual,New,Family,Silver,Recommended
+Hyundai Creta,26.56,16.1,5,SUV,Diesel,Manual,Used,Family,White,Not Recommended
+Toyota Innova,42.69,13.6,6,Hatchback,Diesel,Automatic,New,Family,White,Not Recommended
+Tata Punch,41.41,10.2,5,Hatchback,Electric,Automatic,New,Family,White,Not Recommended
+Honda CR-V,40.02,22.3,4,Hatchback,Electric,Automatic,New,Family,Black,Recommended
+Hyundai Venue,5.7,21.3,5,Hatchback,Electric,Automatic,New,Family,Red,Not Recommended
+Mahindra Bolero,4.79,18.7,7,SUV,Petrol,Automatic,Used,Family,White,Recommended
+Maruti Baleno,26.11,25.0,6,SUV,Petrol,Automatic,Used,Family,Black,Not Recommended
+Tata Tiago,27.8,23.9,4,SUV,Electric,Manual,New,Family,White,Recommended
+Hyundai Elantra,40.7,13.6,7,Sedan,Petrol,Automatic,New,Family,Blue,Recommended
+Honda Amaze,6.96,11.8,5,Sedan,Electric,Automatic,New,Family,White,Not Recommended
+Honda CR-V,39.34,21.0,6,SUV,Electric,Manual,Used,Family,Red,Recommended
+Tata Punch,13.47,20.3,7,Sedan,Electric,Manual,New,Family,Silver,Not Recommended
+Kia Sonet,6.55,14.5,4,Sedan,Electric,Manual,New,Family,Black,Not Recommended
+Honda Amaze,39.61,20.4,7,SUV,Electric,Manual,Used,Family,White,Not Recommended
+Tata Tigor,22.63,12.2,7,SUV,Petrol,Manual,New,Family,Red,Not Recommended
+Honda Amaze,40.6,13.0,7,SUV,Electric,Manual,New,Family,Blue,Recommended
+Mahindra Thar,43.73,18.0,4,Sedan,Petrol,Manual,Used,Family,Silver,Not Recommended
+Honda WR-V,39.61,21.9,4,Hatchback,Petrol,Automatic,New,Family,White,Not Recommended
+Maruti Swift,5.71,16.6,5,SUV,Petrol,Manual,Used,Family,White,Not Recommended
+Tata Tiago,40.75,12.8,7,Sedan,Petrol,Manual,Used,Family,White,Not Recommended
+Tata Safari,24.43,22.2,4,Sedan,Electric,Automatic,Used,Family,Blue,Not Recommended
+Hyundai Aura,16.96,12.4,6,Hatchback,Electric,Automatic,Used,Family,Silver,Not Recommended
+Maruti WagonR,22.29,14.2,7,SUV,Electric,Automatic,New,Family,Black,Recommended
+Mahindra Scorpio,32.5,24.6,4,Sedan,Electric,Manual,New,Family,Red,Recommended
+Honda Civic,20.58,20.2,5,Hatchback,Electric,Automatic,Used,Family,Blue,Recommended
+Tata Nexon,12.95,24.8,6,Sedan,Petrol,Manual,Used,Family,Silver,Not Recommended
+Hyundai Elantra,16.93,16.5,4,Hatchback,Petrol,Manual,Used,Family,Blue,Recommended
+Hyundai Elantra,17.65,14.7,5,Sedan,Petrol,Automatic,New,Family,White,Recommended
+Mahindra Scorpio,16.93,13.8,5,SUV,Diesel,Manual,Used,Family,Blue,Recommended
+Mahindra Bolero,8.5,20.6,4,Sedan,Petrol,Automatic,New,Family,Blue,Not Recommended
+Honda WR-V,10.5,12.1,6,Hatchback,Petrol,Manual,Used,Family,Red,Recommended
+Hyundai Grand i10,27.25,13.4,4,Hatchback,Electric,Automatic,Used,Family,Blue,Not Recommended
+Honda CR-V,15.96,17.7,6,SUV,Diesel,Manual,Used,Family,Blue,Not Recommended
+Honda City,18.8,21.3,6,Hatchback,Petrol,Automatic,Used,Family,White,Recommended
+Toyota Innova,28.49,16.5,6,SUV,Electric,Automatic,New,Family,Red,Not Recommended
+Tata Harrier,6.75,14.3,4,Hatchback,Electric,Manual,Used,Family,Black,Recommended
+Honda Jazz,15.27,11.1,5,Hatchback,Diesel,Automatic,New,Family,Black,Not Recommended
+Hyundai Aura,28.29,12.1,5,Sedan,Diesel,Manual,Used,Family,Red,Recommended
+Maruti Alto,15.24,10.9,7,SUV,Diesel,Automatic,Used,Family,Black,Recommended
+Hyundai Verna,39.58,23.3,6,Sedan,Electric,Automatic,New,Family,Silver,Recommended
+Honda City,13.74,20.9,6,Hatchback,Electric,Manual,Used,Family,Silver,Recommended
+Tata Altroz,12.43,23.9,4,SUV,Electric,Manual,Used,Family,Red,Not Recommended
+Toyota Glanza,28.92,13.1,4,Sedan,Electric,Manual,Used,Family,Silver,Not Recommended
+Maruti Swift,8.39,19.6,5,Hatchback,Electric,Manual,New,Family,Red,Recommended
+Honda WR-V,15.2,11.7,6,SUV,Petrol,Manual,New,Family,Blue,Not Recommended
+Toyota Fortuner,36.39,23.4,4,Sedan,Petrol,Manual,New,Family,White,Recommended
+Hyundai Verna,17.41,18.0,6,Sedan,Diesel,Manual,Used,Family,Blue,Recommended
+Maruti Swift,31.55,23.1,6,Sedan,Electric,Automatic,New,Family,Silver,Not Recommended
+Maruti Baleno,22.19,22.5,5,Sedan,Electric,Automatic,New,Family,White,Recommended
+Honda Civic,13.37,19.1,5,Hatchback,Diesel,Automatic,Used,Family,Black,Not Recommended
+Mahindra Thar,9.38,11.0,4,SUV,Diesel,Automatic,New,Family,Silver,Not Recommended
+Tata Harrier,22.34,19.9,7,Sedan,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Tata Tigor,13.97,24.9,4,SUV,Diesel,Automatic,Used,Family,Red,Not Recommended
+Maruti Dzire,31.89,22.4,7,Hatchback,Petrol,Manual,New,Family,Red,Not Recommended
+Honda Amaze,37.72,15.7,7,Hatchback,Electric,Automatic,Used,Family,Silver,Not Recommended
+Hyundai i20,43.77,18.3,5,Hatchback,Diesel,Automatic,New,Family,Red,Recommended
+Mahindra Bolero,32.5,11.1,6,Hatchback,Petrol,Manual,New,Family,White,Not Recommended
+Hyundai Creta,12.28,18.1,4,Sedan,Petrol,Manual,Used,Family,White,Recommended
+Honda Civic,22.64,19.0,5,SUV,Diesel,Manual,New,Family,Red,Not Recommended
+Maruti Swift,37.45,12.1,4,Hatchback,Diesel,Automatic,Used,Family,Silver,Not Recommended
+Honda CR-V,20.98,11.1,6,Sedan,Electric,Manual,New,Family,Red,Not Recommended
+Maruti Brezza,26.14,10.9,4,Hatchback,Electric,Manual,New,Family,Red,Recommended
+Toyota Glanza,37.19,16.3,6,Hatchback,Diesel,Automatic,Used,Family,Silver,Recommended
+Tata Tiago,8.16,15.4,7,SUV,Electric,Automatic,Used,Family,Black,Recommended
+Kia Sonet,21.56,13.6,4,Hatchback,Diesel,Automatic,New,Family,Black,Recommended
+Honda Civic,36.66,11.4,4,SUV,Electric,Automatic,New,Family,Silver,Recommended
+Toyota Innova,31.01,19.5,5,SUV,Diesel,Automatic,Used,Family,Red,Not Recommended
+Honda City,8.37,19.4,7,Hatchback,Electric,Automatic,New,Family,Black,Recommended
+Kia Carnival,32.01,20.8,7,SUV,Diesel,Automatic,Used,Family,Blue,Recommended
+Hyundai Grand i10,9.78,18.7,6,SUV,Diesel,Automatic,Used,Family,White,Recommended
+Tata Tiago,9.31,23.2,7,Sedan,Electric,Manual,Used,Family,White,Not Recommended
+Honda Amaze,7.08,17.2,4,Sedan,Diesel,Automatic,Used,Family,White,Not Recommended
+Honda WR-V,36.24,10.4,4,Sedan,Petrol,Automatic,Used,Family,Red,Not Recommended
+Kia Carens,6.97,19.5,4,SUV,Electric,Manual,New,Family,Silver,Recommended
+Honda Civic,18.02,13.2,5,Sedan,Petrol,Manual,New,Family,Silver,Not Recommended
+Tata Punch,44.76,15.4,4,SUV,Electric,Manual,Used,Family,Black,Not Recommended
+Toyota Fortuner,36.39,23.4,4,Sedan,Petrol,Manual,New,Family,White,Recommended
+Honda City,18.8,21.3,6,Hatchback,Petrol,Automatic,Used,Family,White,Recommended
+Kia Carens,35.76,24.7,4,Hatchback,Diesel,Automatic,Used,Family,Silver,Not Recommended
+Hyundai Elantra,40.7,13.6,7,Sedan,Petrol,Automatic,New,Family,Blue,Recommended
+Honda Amaze,44.0,22.5,6,Sedan,Diesel,Manual,New,Family,Blue,Not Recommended
+Honda City,35.0,19.5,7,SUV,Diesel,Manual,New,Family,Blue,Not Recommended
+Hyundai Tucson,30.27,11.8,6,Hatchback,Electric,Automatic,Used,Family,White,Not Recommended
+Mahindra Scorpio,5.72,20.9,5,Sedan,Electric,Automatic,Used,Family,Blue,Recommended
+Tata Punch,41.54,10.3,5,Sedan,Electric,Automatic,New,Family,White,Not Recommended
+Mahindra Scorpio,32.5,24.6,4,Sedan,Electric,Manual,New,Family,Red,Recommended
+Mahindra Bolero,35.96,22.0,7,Hatchback,Electric,Manual,Used,Family,Red,Recommended
+Hyundai Grand i10,35.8,21.6,6,Sedan,Petrol,Automatic,New,Family,White,Not Recommended
+Hyundai Elantra,31.37,13.5,4,Sedan,Petrol,Automatic,New,Family,Black,Not Recommended
+Tata Nexon,9.24,24.4,7,SUV,Electric,Automatic,New,Family,Silver,Recommended
+Hyundai Elantra,29.17,13.0,6,Hatchback,Petrol,Automatic,New,Family,Silver,Recommended
+Honda City,32.02,14.2,5,SUV,Diesel,Manual,New,Family,Blue,Not Recommended
+Mahindra Scorpio,7.22,12.9,6,SUV,Petrol,Automatic,New,Family,Red,Not Recommended
+Hyundai i20,28.62,17.1,6,Hatchback,Petrol,Automatic,Used,Family,Red,Not Recommended
+Hyundai Tucson,20.3,14.5,4,Sedan,Petrol,Automatic,New,Family,Blue,Not Recommended
+Kia Seltos,29.99,13.4,4,Sedan,Petrol,Manual,New,Family,Red,Not Recommended
+Maruti Brezza,31.45,11.5,5,Hatchback,Diesel,Automatic,New,Family,White,Recommended
+Honda Amaze,27.2,14.7,7,Sedan,Electric,Manual,Used,Family,Red,Recommended
+Maruti Baleno,24.75,10.3,6,Sedan,Diesel,Manual,New,Family,Black,Not Recommended
+Hyundai Venue,13.18,12.8,6,Sedan,Diesel,Automatic,Used,Family,White,Not Recommended
+Hyundai Creta,24.61,18.9,6,SUV,Petrol,Automatic,New,Family,White,Recommended
+Tata Safari,19.11,18.9,7,Hatchback,Diesel,Automatic,New,Family,Silver,Not Recommended
+Hyundai i20,29.36,11.5,7,Hatchback,Petrol,Automatic,Used,Family,Red,Not Recommended
+Honda CR-V,43.97,11.7,7,SUV,Electric,Manual,New,Family,Red,Not Recommended
+Tata Tiago,36.78,21.5,4,Sedan,Diesel,Manual,New,Family,Black,Recommended
+Toyota Innova,29.89,17.3,5,Sedan,Electric,Manual,Used,Family,Red,Recommended
+Maruti WagonR,44.64,22.1,4,Hatchback,Petrol,Manual,Used,Family,Silver,Recommended
+Mahindra XUV300,21.28,21.2,6,Hatchback,Petrol,Automatic,New,Family,White,Recommended
+Toyota Glanza,8.14,16.9,5,Hatchback,Electric,Automatic,Used,Family,Blue,Not Recommended
+Mahindra Thar,32.21,10.7,6,Hatchback,Diesel,Manual,New,Family,Red,Recommended
+Tata Nexon,20.52,10.9,4,SUV,Diesel,Manual,Used,Family,Red,Recommended
+Maruti Alto,37.98,15.2,5,Hatchback,Petrol,Manual,New,Family,Blue,Not Recommended
+Tata Tiago,32.22,20.9,6,Hatchback,Diesel,Manual,Used,Family,Black,Not Recommended
+Hyundai Venue,5.7,21.3,5,Hatchback,Electric,Automatic,New,Family,Red,Not Recommended
+Mahindra Scorpio,14.65,16.4,4,Hatchback,Diesel,Automatic,Used,Family,Black,Recommended
+Kia Seltos,5.61,15.8,7,Sedan,Diesel,Manual,New,Family,Black,Recommended
+Hyundai Verna,33.04,15.0,5,Hatchback,Diesel,Manual,Used,Family,White,Recommended
+Hyundai Aura,37.99,19.8,5,Hatchback,Diesel,Manual,Used,Family,White,Not Recommended
+Tata Nexon,13.89,15.2,7,Hatchback,Diesel,Automatic,Used,Family,Black,Not Recommended
+Tata Nexon,18.18,20.2,4,SUV,Electric,Automatic,New,Family,Red,Recommended
+Maruti Swift,20.43,24.8,5,Hatchback,Diesel,Automatic,New,Family,Blue,Not Recommended
+Toyota Glanza,14.65,22.8,4,Hatchback,Electric,Manual,Used,Family,Silver,Not Recommended
+Mahindra Bolero,23.97,16.2,4,Sedan,Petrol,Automatic,Used,Family,Black,Recommended
+Kia Carnival,32.01,20.8,7,SUV,Diesel,Automatic,Used,Family,Blue,Recommended
+Hyundai Grand i10,17.33,18.7,6,SUV,Petrol,Automatic,New,Family,Blue,Not Recommended
+Tata Harrier,20.17,20.2,4,Sedan,Electric,Automatic,New,Family,Blue,Recommended
+Toyota Glanza,37.33,10.9,5,Hatchback,Petrol,Manual,Used,Family,Silver,Recommended
+Toyota Glanza,30.18,17.0,4,Hatchback,Petrol,Automatic,New,Family,Black,Not Recommended
+Tata Harrier,36.75,24.2,4,Sedan,Diesel,Manual,Used,Family,Silver,Recommended
+Hyundai Venue,32.2,23.1,5,Hatchback,Diesel,Automatic,New,Family,White,Not Recommended
+Hyundai Creta,31.34,14.3,6,SUV,Electric,Automatic,New,Family,Red,Not Recommended
+Kia Carnival,36.82,10.1,5,Sedan,Diesel,Manual,Used,Family,White,Not Recommended
+Hyundai Verna,43.83,19.8,5,Sedan,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Tata Safari,42.42,16.2,4,SUV,Petrol,Automatic,New,Family,Blue,Not Recommended
+Toyota Fortuner,40.0,15.9,4,Hatchback,Petrol,Manual,Used,Family,Black,Not Recommended
+Hyundai Elantra,29.05,17.8,7,Hatchback,Petrol,Manual,Used,Family,Silver,Recommended
+Honda Jazz,13.58,20.6,5,Sedan,Diesel,Manual,Used,Family,Blue,Not Recommended
+Tata Harrier,25.02,17.8,4,SUV,Diesel,Automatic,New,Family,White,Not Recommended
+Kia Sonet,10.89,23.6,5,SUV,Petrol,Manual,New,Family,White,Recommended
+Kia Carens,11.59,13.9,5,Sedan,Petrol,Automatic,New,Family,Black,Recommended
+Tata Tiago,40.75,12.8,7,Sedan,Petrol,Manual,Used,Family,White,Not Recommended
+Tata Hexa,27.16,22.6,4,SUV,Diesel,Automatic,Used,Family,Silver,Not Recommended
+Maruti WagonR,28.31,22.0,6,Hatchback,Electric,Automatic,New,Family,White,Not Recommended
+Honda Jazz,43.01,15.2,4,SUV,Electric,Manual,Used,Family,White,Recommended
+Honda Jazz,7.12,23.4,7,SUV,Diesel,Manual,New,Family,Red,Not Recommended
+Tata Altroz,34.04,14.1,5,Sedan,Petrol,Automatic,New,Family,Blue,Recommended
+Tata Hexa,21.47,21.3,6,Sedan,Diesel,Manual,Used,Family,Black,Not Recommended
+Mahindra Thar,9.71,18.7,4,Sedan,Diesel,Manual,Used,Family,Black,Recommended
+Tata Punch,37.59,22.1,6,Hatchback,Petrol,Automatic,New,Family,White,Not Recommended
+Honda Civic,23.67,19.8,4,Hatchback,Electric,Manual,Used,Family,Black,Recommended
+Hyundai Elantra,4.53,15.3,4,SUV,Electric,Automatic,New,Family,Black,Recommended
+Hyundai Creta,21.94,12.5,5,Hatchback,Electric,Manual,Used,Family,Black,Not Recommended
+Hyundai Aura,44.01,22.4,4,SUV,Electric,Automatic,Used,Family,White,Recommended
+Maruti Baleno,18.86,15.1,7,Hatchback,Petrol,Manual,Used,Family,Silver,Recommended
+Maruti Dzire,14.44,16.7,4,Sedan,Diesel,Manual,New,Family,White,Recommended
+Tata Harrier,29.28,11.7,5,Hatchback,Petrol,Automatic,New,Family,Silver,Not Recommended
+Maruti Alto,38.43,11.2,7,Hatchback,Petrol,Manual,Used,Family,Silver,Recommended
+Tata Nexon,34.48,22.6,4,Hatchback,Petrol,Automatic,New,Family,Blue,Not Recommended
+Toyota Innova,26.32,24.2,7,Sedan,Electric,Automatic,Used,Family,White,Not Recommended
+Toyota Glanza,24.89,11.0,6,SUV,Electric,Automatic,Used,Family,White,Recommended
+Honda CR-V,39.34,21.0,6,SUV,Electric,Manual,Used,Family,Red,Recommended
+Kia Seltos,8.93,23.2,5,Hatchback,Electric,Manual,Used,Family,Silver,Recommended
+Tata Punch,35.2,20.4,7,Sedan,Electric,Manual,New,Family,Silver,Recommended
+Maruti Baleno,32.29,24.5,5,Hatchback,Diesel,Manual,Used,Family,Blue,Recommended
+Toyota Glanza,30.18,17.0,4,Hatchback,Petrol,Automatic,New,Family,Black,Not Recommended
+Honda CR-V,4.81,19.5,5,Hatchback,Petrol,Automatic,Used,Family,Silver,Recommended
+Toyota Innova,39.7,14.1,4,Hatchback,Electric,Manual,Used,Family,White,Not Recommended
+Tata Harrier,29.28,11.7,5,Hatchback,Petrol,Automatic,New,Family,Silver,Not Recommended
+Tata Hexa,35.17,22.2,6,SUV,Electric,Manual,Used,Family,Black,Recommended
+Tata Tiago,41.75,19.0,5,SUV,Diesel,Manual,Used,Family,White,Not Recommended
+Honda Civic,25.55,19.1,7,SUV,Petrol,Manual,Used,Family,Blue,Not Recommended
+Hyundai Creta,16.07,23.3,7,SUV,Diesel,Automatic,New,Family,Red,Recommended
+Kia Carnival,14.24,11.0,6,Hatchback,Electric,Manual,Used,Family,Red,Recommended
+Tata Tigor,43.18,17.6,4,Sedan,Electric,Manual,Used,Family,White,Recommended
+Mahindra Bolero,30.7,23.2,7,Sedan,Electric,Automatic,Used,Family,Blue,Recommended
+Maruti Brezza,23.65,21.5,6,SUV,Electric,Manual,Used,Family,Red,Not Recommended
+Tata Harrier,6.75,14.3,4,Hatchback,Electric,Manual,Used,Family,Black,Recommended
+Tata Nexon,5.23,15.8,7,Hatchback,Electric,Automatic,Used,Family,Silver,Recommended
+Mahindra Bolero,35.36,23.4,6,Sedan,Electric,Manual,New,Family,Silver,Not Recommended
+Maruti Brezza,27.29,23.5,6,Sedan,Diesel,Automatic,New,Family,Silver,Recommended
+Mahindra Bolero,39.55,19.5,4,SUV,Diesel,Manual,Used,Family,Silver,Not Recommended
+Tata Harrier,39.75,16.8,7,SUV,Petrol,Automatic,New,Family,Black,Recommended
+Kia Seltos,14.14,20.1,6,SUV,Diesel,Automatic,New,Family,Blue,Recommended
+Honda WR-V,29.02,22.4,6,Hatchback,Diesel,Automatic,Used,Family,Black,Recommended
+Honda City,7.32,18.4,4,SUV,Electric,Automatic,New,Family,White,Recommended
+Kia Sonet,24.02,16.7,7,Sedan,Diesel,Automatic,Used,Family,Red,Recommended
+Toyota Innova,11.37,15.1,5,Sedan,Electric,Manual,New,Family,Red,Not Recommended
+Hyundai Verna,36.92,10.1,4,SUV,Diesel,Manual,New,Family,Red,Recommended
+Hyundai Venue,31.74,19.4,6,SUV,Diesel,Manual,New,Family,Silver,Recommended
+Honda Jazz,24.03,21.1,4,SUV,Petrol,Automatic,Used,Family,Blue,Recommended
+Maruti Swift,15.35,18.0,4,SUV,Electric,Manual,Used,Family,Blue,Recommended
+Maruti Dzire,35.5,22.1,5,Hatchback,Electric,Manual,New,Family,Red,Recommended
+Honda CR-V,43.97,11.7,7,SUV,Electric,Manual,New,Family,Red,Not Recommended
+Honda WR-V,38.61,15.5,6,Sedan,Diesel,Automatic,Used,Family,Red,Recommended
+Hyundai Elantra,9.61,16.6,6,Sedan,Petrol,Manual,New,Family,Black,Recommended
+Tata Safari,8.94,24.6,7,SUV,Petrol,Automatic,New,Family,Silver,Recommended
+Kia Seltos,34.86,13.6,5,Sedan,Diesel,Automatic,New,Family,Silver,Not Recommended
+Tata Nexon,18.18,20.2,4,SUV,Electric,Automatic,New,Family,Red,Recommended
+Hyundai Tucson,11.19,19.0,4,Sedan,Diesel,Manual,Used,Family,Silver,Not Recommended
+Honda CR-V,44.45,17.6,5,SUV,Diesel,Automatic,Used,Family,Red,Not Recommended
+Tata Tigor,25.97,20.3,6,Hatchback,Electric,Automatic,New,Family,Red,Recommended
+Tata Punch,18.58,18.8,4,Hatchback,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Hyundai Tucson,20.35,11.6,7,SUV,Diesel,Automatic,New,Family,White,Recommended
+Mahindra Bolero,23.97,16.2,4,Sedan,Petrol,Automatic,Used,Family,Black,Recommended
+Maruti WagonR,32.44,20.9,7,Hatchback,Diesel,Automatic,Used,Family,Blue,Recommended
+Hyundai Venue,20.09,18.9,6,SUV,Diesel,Manual,New,Family,Black,Not Recommended
+Hyundai i20,39.73,16.7,4,Sedan,Petrol,Manual,Used,Family,White,Recommended
+Mahindra Scorpio,31.87,16.8,6,SUV,Petrol,Manual,New,Family,Silver,Not Recommended
+Honda Amaze,40.02,23.6,4,Hatchback,Electric,Automatic,New,Family,Blue,Recommended
+Honda Civic,4.73,23.2,5,Hatchback,Electric,Manual,New,Family,White,Not Recommended
+Honda City,24.35,23.1,4,Sedan,Diesel,Automatic,New,Family,Blue,Recommended
+Hyundai Venue,5.62,12.1,4,Sedan,Electric,Manual,Used,Family,Red,Not Recommended
+Hyundai Grand i10,28.67,11.7,4,SUV,Petrol,Automatic,Used,Family,Red,Not Recommended
+Kia Carnival,34.74,18.2,6,Hatchback,Petrol,Manual,Used,Family,Blue,Not Recommended
+Tata Tigor,25.97,20.3,6,Hatchback,Electric,Automatic,New,Family,Red,Recommended
+Maruti Swift,38.52,11.6,6,Hatchback,Petrol,Automatic,New,Family,Red,Not Recommended
+Maruti Brezza,23.65,21.5,6,SUV,Electric,Manual,Used,Family,Red,Not Recommended
+Honda CR-V,20.98,11.1,6,Sedan,Electric,Manual,New,Family,Red,Not Recommended
+Tata Nexon,25.69,17.3,5,Hatchback,Electric,Manual,New,Family,Silver,Not Recommended
+Hyundai Aura,44.01,22.4,4,SUV,Electric,Automatic,Used,Family,White,Recommended
+Tata Tiago,39.56,22.4,7,Hatchback,Diesel,Automatic,New,Family,White,Recommended
+Kia Carnival,29.68,17.8,4,Sedan,Electric,Manual,New,Family,White,Not Recommended
+Maruti Swift,7.59,21.5,5,SUV,Diesel,Automatic,Used,Family,White,Recommended
+Maruti Dzire,35.5,22.1,5,Hatchback,Electric,Manual,New,Family,Red,Recommended
+Toyota Glanza,30.18,17.0,4,Hatchback,Petrol,Automatic,New,Family,Black,Not Recommended
+Hyundai Tucson,44.79,21.9,7,Hatchback,Petrol,Automatic,New,Family,Blue,Not Recommended
+Tata Hexa,7.75,19.9,5,Sedan,Petrol,Manual,New,Family,Silver,Not Recommended
+Hyundai Venue,30.28,10.2,7,Sedan,Electric,Manual,Used,Family,Black,Not Recommended
+Hyundai i20,22.26,14.6,6,Sedan,Diesel,Automatic,New,Family,Silver,Recommended
+Hyundai Grand i10,17.33,18.7,6,SUV,Petrol,Automatic,New,Family,Blue,Not Recommended
+Hyundai Elantra,39.86,16.9,5,Hatchback,Petrol,Manual,New,Family,Blue,Not Recommended
+Kia Sonet,25.28,19.6,7,Hatchback,Diesel,Automatic,New,Family,Silver,Not Recommended
+Mahindra XUV300,23.7,24.3,4,Hatchback,Petrol,Manual,Used,Family,Blue,Recommended
+Mahindra Bolero,28.0,24.8,6,Sedan,Diesel,Automatic,New,Family,Red,Not Recommended
+Hyundai Elantra,25.14,23.2,5,SUV,Electric,Automatic,New,Family,Red,Not Recommended
+Mahindra XUV300,38.32,12.6,7,SUV,Electric,Automatic,New,Family,Silver,Recommended
+Hyundai Elantra,33.35,11.8,4,SUV,Electric,Manual,Used,Family,Silver,Recommended
+Honda City,40.35,21.8,6,Sedan,Petrol,Manual,Used,Family,Black,Recommended
+Hyundai Elantra,9.61,16.6,6,Sedan,Petrol,Manual,New,Family,Black,Recommended
+Hyundai i20,32.49,17.7,4,Hatchback,Electric,Automatic,New,Family,Red,Recommended
+Maruti Brezza,26.14,10.9,4,Hatchback,Electric,Manual,New,Family,Red,Recommended
+Toyota Innova,29.89,17.3,5,Sedan,Electric,Manual,Used,Family,Red,Recommended
+Tata Tiago,4.54,15.6,7,SUV,Diesel,Manual,New,Family,Silver,Recommended
+Tata Nexon,18.18,20.2,4,SUV,Electric,Automatic,New,Family,Red,Recommended
+Hyundai i20,44.36,18.4,6,Hatchback,Petrol,Automatic,New,Family,Black,Not Recommended
+Tata Tigor,16.72,23.4,5,Sedan,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Kia Seltos,22.52,23.9,4,Sedan,Diesel,Automatic,New,Family,Black,Recommended
+Hyundai Elantra,38.82,21.7,4,SUV,Electric,Automatic,New,Family,Black,Not Recommended
+Mahindra Thar,6.37,23.7,6,SUV,Petrol,Manual,New,Family,Red,Not Recommended
+Kia Seltos,44.64,22.3,4,Hatchback,Electric,Automatic,New,Family,Black,Recommended
+Tata Tiago,9.31,23.2,7,Sedan,Electric,Manual,Used,Family,White,Not Recommended
+Maruti Swift,7.59,21.5,5,SUV,Diesel,Automatic,Used,Family,White,Recommended
+Tata Nexon,38.64,24.9,6,SUV,Electric,Manual,New,Family,Red,Recommended
+Hyundai Verna,7.32,15.5,4,SUV,Petrol,Manual,New,Family,Black,Recommended
+Toyota Glanza,20.75,12.5,5,Hatchback,Electric,Manual,New,Family,Black,Not Recommended
+Hyundai Creta,32.54,14.2,6,Hatchback,Electric,Automatic,Used,Family,Red,Not Recommended
+Maruti Alto,41.7,13.2,4,Sedan,Petrol,Manual,New,Family,Black,Not Recommended
+Kia Sonet,33.61,11.5,4,Hatchback,Electric,Manual,Used,Family,Black,Recommended
+Kia Carnival,7.39,11.8,6,SUV,Diesel,Manual,Used,Family,Red,Recommended
+Honda CR-V,15.96,17.7,6,SUV,Diesel,Manual,Used,Family,Blue,Not Recommended
+Kia Carens,20.28,13.1,7,Sedan,Electric,Manual,New,Family,Silver,Recommended
+Hyundai Aura,25.78,17.6,7,Sedan,Diesel,Automatic,Used,Family,Blue,Recommended
+Honda Civic,20.58,20.2,5,Hatchback,Electric,Automatic,Used,Family,Blue,Recommended
+Mahindra Scorpio,5.72,20.9,5,Sedan,Electric,Automatic,Used,Family,Blue,Recommended
+Tata Safari,7.28,17.6,5,SUV,Diesel,Manual,New,Family,Silver,Not Recommended
+Hyundai Venue,6.13,17.7,5,Hatchback,Petrol,Manual,Used,Family,Black,Not Recommended
+Honda Civic,28.05,16.1,4,SUV,Diesel,Manual,New,Family,Silver,Recommended
+Toyota Innova,4.91,16.3,4,SUV,Electric,Manual,Used,Family,Silver,Not Recommended
+Hyundai Tucson,4.75,17.7,4,Sedan,Electric,Manual,New,Family,Red,Not Recommended
+Hyundai Venue,36.08,18.1,6,SUV,Electric,Automatic,Used,Family,Silver,Recommended
+Hyundai i20,26.12,22.8,5,SUV,Diesel,Automatic,New,Family,Black,Not Recommended
+Tata Hexa,18.19,14.0,4,Sedan,Diesel,Manual,New,Family,Blue,Not Recommended
+Tata Safari,29.73,18.2,6,SUV,Petrol,Automatic,New,Family,Silver,Recommended
+Toyota Glanza,41.9,24.1,6,SUV,Electric,Automatic,New,Family,Silver,Not Recommended
+Hyundai Verna,39.58,23.3,6,Sedan,Electric,Automatic,New,Family,Silver,Recommended
+Hyundai Tucson,13.55,11.0,4,Sedan,Petrol,Manual,Used,Family,Blue,Not Recommended
+Tata Tigor,11.17,18.0,4,Sedan,Electric,Automatic,New,Family,Red,Recommended
+Hyundai Venue,14.99,23.1,6,Hatchback,Diesel,Automatic,New,Family,White,Recommended
+Maruti Swift,40.82,17.2,4,Hatchback,Petrol,Manual,Used,Family,Silver,Not Recommended
+Kia Seltos,8.93,23.2,5,Hatchback,Electric,Manual,Used,Family,Silver,Recommended
+Honda CR-V,21.54,23.1,6,Sedan,Petrol,Automatic,New,Family,Red,Not Recommended
+Hyundai Verna,33.28,11.3,6,SUV,Electric,Manual,New,Family,Red,Not Recommended
+Tata Nexon,12.95,24.8,6,Sedan,Petrol,Manual,Used,Family,Silver,Not Recommended
+Tata Tigor,33.36,14.4,6,SUV,Electric,Automatic,Used,Family,Silver,Recommended
+Hyundai Tucson,7.65,10.7,6,Sedan,Petrol,Automatic,Used,Family,Blue,Recommended
+Kia Seltos,8.93,23.2,5,Hatchback,Electric,Manual,Used,Family,Silver,Recommended
+Hyundai Verna,15.03,21.6,4,SUV,Electric,Automatic,Used,Family,Silver,Recommended
+Hyundai Grand i10,37.05,11.2,6,Sedan,Electric,Manual,New,Family,Black,Recommended
+Honda Amaze,39.61,20.4,7,SUV,Electric,Manual,Used,Family,White,Not Recommended
+Honda CR-V,21.54,23.1,6,Sedan,Petrol,Automatic,New,Family,Red,Not Recommended
+Kia Carens,7.57,19.5,7,Sedan,Diesel,Automatic,New,Family,White,Recommended
+Maruti Dzire,14.44,16.7,4,Sedan,Diesel,Manual,New,Family,White,Recommended
+Hyundai Creta,26.14,22.6,7,SUV,Electric,Automatic,Used,Family,Blue,Not Recommended
+Tata Altroz,33.42,20.7,6,Sedan,Petrol,Automatic,New,Family,Black,Recommended
+Toyota Glanza,33.72,12.3,6,Hatchback,Electric,Automatic,Used,Family,Red,Recommended
+Honda CR-V,43.97,11.7,7,SUV,Electric,Manual,New,Family,Red,Not Recommended
+Kia Sonet,33.61,11.5,4,Hatchback,Electric,Manual,Used,Family,Black,Recommended
+Toyota Glanza,21.88,20.8,5,Sedan,Electric,Automatic,New,Family,Silver,Not Recommended
+Mahindra Thar,30.71,21.8,6,Sedan,Petrol,Automatic,Used,Family,Red,Not Recommended
+Mahindra Thar,30.71,21.8,6,Sedan,Petrol,Automatic,Used,Family,Red,Not Recommended
+Hyundai i20,27.39,15.2,4,SUV,Diesel,Automatic,Used,Family,Red,Not Recommended
+Tata Nexon,28.2,12.0,7,Hatchback,Petrol,Manual,New,Family,Blue,Not Recommended
+Mahindra Scorpio,25.25,24.9,7,SUV,Diesel,Manual,New,Family,Red,Recommended
+Tata Altroz,33.07,24.0,5,SUV,Petrol,Automatic,Used,Family,Black,Recommended
+Hyundai Aura,36.81,14.1,4,Sedan,Petrol,Automatic,Used,Family,Black,Recommended
+Tata Hexa,30.66,14.4,6,SUV,Diesel,Manual,Used,Family,Silver,Not Recommended
+Maruti Baleno,30.66,15.8,4,Sedan,Diesel,Manual,Used,Family,Blue,Recommended
+Tata Altroz,9.73,24.4,6,SUV,Petrol,Automatic,New,Family,Blue,Recommended
+Toyota Glanza,34.02,13.7,7,Hatchback,Petrol,Manual,New,Family,Black,Recommended
+Tata Altroz,10.16,20.7,6,Hatchback,Electric,Manual,Used,Family,White,Not Recommended
+Toyota Glanza,31.8,20.7,4,Sedan,Electric,Manual,New,Family,Black,Not Recommended
+Tata Tigor,5.28,22.8,6,Hatchback,Petrol,Automatic,Used,Family,Black,Not Recommended
+Hyundai i20,43.91,16.9,6,SUV,Electric,Manual,Used,Family,Red,Not Recommended
+Toyota Glanza,24.32,11.2,7,Hatchback,Diesel,Manual,Used,Family,Black,Not Recommended
+Maruti Dzire,17.08,13.8,7,Hatchback,Electric,Automatic,Used,Family,Black,Recommended
+Honda Amaze,22.47,15.8,6,Hatchback,Electric,Automatic,New,Family,White,Recommended
+Tata Nexon,13.1,18.5,7,SUV,Electric,Manual,New,Family,Silver,Recommended
+Hyundai Grand i10,9.78,18.7,6,SUV,Diesel,Automatic,Used,Family,White,Recommended
+Honda WR-V,35.71,15.6,5,Sedan,Electric,Manual,Used,Family,Blue,Not Recommended
+Tata Hexa,9.13,22.4,5,Sedan,Electric,Automatic,Used,Family,Red,Recommended
+Hyundai Verna,7.32,15.5,4,SUV,Petrol,Manual,New,Family,Black,Recommended
+Toyota Innova,34.24,22.0,4,SUV,Diesel,Automatic,New,Family,Red,Not Recommended
+Mahindra Bolero,28.0,24.8,6,Sedan,Diesel,Automatic,New,Family,Red,Not Recommended
+Hyundai i20,35.09,24.7,4,Sedan,Diesel,Manual,New,Family,Blue,Not Recommended
+Tata Altroz,44.79,14.5,5,Sedan,Electric,Manual,Used,Family,Silver,Not Recommended
+Toyota Innova,35.54,12.9,4,Sedan,Diesel,Manual,New,Family,Blue,Recommended
+Honda WR-V,44.88,23.7,7,Hatchback,Petrol,Manual,New,Family,Black,Recommended
+Kia Seltos,11.98,18.2,4,SUV,Electric,Automatic,New,Family,Red,Not Recommended
+Honda WR-V,39.82,10.9,4,SUV,Electric,Automatic,New,Family,Silver,Recommended
+Hyundai Grand i10,5.25,18.7,4,Hatchback,Electric,Automatic,New,Family,Silver,Not Recommended
+Hyundai i20,39.73,16.7,4,Sedan,Petrol,Manual,Used,Family,White,Recommended
+Honda Civic,43.49,21.6,4,Sedan,Petrol,Manual,New,Family,Black,Not Recommended
+Kia Sonet,21.67,12.3,7,Sedan,Electric,Manual,New,Family,Red,Recommended
+Toyota Glanza,20.75,12.5,5,Hatchback,Electric,Manual,New,Family,Black,Not Recommended
+Hyundai Verna,33.04,15.0,5,Hatchback,Diesel,Manual,Used,Family,White,Recommended
+Mahindra Scorpio,9.59,19.4,7,SUV,Electric,Automatic,New,Family,Silver,Not Recommended
+Toyota Glanza,20.03,22.9,7,SUV,Electric,Automatic,Used,Family,Blue,Recommended
+Kia Carnival,36.82,10.1,5,Sedan,Diesel,Manual,Used,Family,White,Not Recommended
+Honda Amaze,39.61,20.4,7,SUV,Electric,Manual,Used,Family,White,Not Recommended
+Maruti Brezza,29.33,24.5,5,SUV,Petrol,Automatic,Used,Family,Blue,Recommended
+Honda City,25.11,21.8,4,Hatchback,Petrol,Manual,Used,Family,White,Not Recommended
+Honda City,24.35,23.1,4,Sedan,Diesel,Automatic,New,Family,Blue,Recommended
+Honda CR-V,12.52,18.3,6,Sedan,Electric,Manual,New,Family,Red,Not Recommended
+Toyota Glanza,37.33,10.9,5,Hatchback,Petrol,Manual,Used,Family,Silver,Recommended
+Maruti Swift,44.49,10.9,5,SUV,Petrol,Automatic,New,Family,Silver,Recommended
+Tata Punch,42.17,12.1,4,SUV,Diesel,Automatic,New,Family,Blue,Recommended
+Toyota Fortuner,30.76,10.1,4,SUV,Diesel,Automatic,Used,Family,Silver,Not Recommended
+Honda CR-V,40.02,22.3,4,Hatchback,Electric,Automatic,New,Family,Black,Recommended
+Kia Sonet,12.46,21.8,4,Sedan,Petrol,Manual,Used,Family,Silver,Not Recommended
+Tata Tiago,15.02,18.8,7,SUV,Diesel,Manual,Used,Family,Red,Not Recommended

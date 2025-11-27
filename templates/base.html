@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ignitron — Your Personal Car Concierge</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Poppins', sans-serif; }
+    .gradient-text {
+      background: linear-gradient(to right, #60A5FA, #A78BFA, #F472B6);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .glass {
+      background: rgba(255, 255, 255, 0.08);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+  </style>
+</head>
+
+<body class="bg-gray-950 text-white min-h-screen overflow-x-hidden">
+
+  <!-- Soft Elegant Background with Subtle Car -->
+  <div class="fixed inset-0 -z-10">
+    <img src="https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-4.0.3&auto=format&fit=crop&w=2400&q=90"
+         alt="Elegant car on road"
+         class="w-full h-full object-cover opacity-30">
+    <div class="absolute inset-0 bg-gradient-to-t from-gray-950 via-gray-950/80 to-gray-950/40"></div>
+    <div class="absolute inset-0 bg-gradient-to-br from-blue-900/20 via-purple-900/10 to-pink-900/20"></div>
+  </div>
+
+  <!-- Header -->
+  <header class="relative z-50 glass border-b border-white/10">
+    <div class="max-w-7xl mx-auto px-6 py-8 flex justify-between items-center">
+      <div class="flex items-center space-x-5">
+        <div class="w-14 h-14 bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center text-2xl font-bold shadow-2xl">
+          I
+        </div>
+        <div>
+          <h1 class="text-4xl font-bold gradient-text tracking-tight">Ignitron</h1>
+          <p class="text-sm text-gray-400 font-medium">Your Personal Car Concierge</p>
+        </div>
+      </div>
+
+      <nav class="hidden md:flex items-center space-x-10 text-lg">
+        <a href="{{ url_for('index') }}"
+           class="relative pb-2 transition-all hover:text-blue-400
+                  {% if request.endpoint == 'index' %} text-blue-400 after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-blue-400 {% endif %}">
+          Home
+        </a>
+        <a href="{{ url_for('admin') }}"
+           class="relative pb-2 transition-all hover:text-purple-400
+                  {% if request.endpoint == 'admin' %} text-purple-400 after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-purple-400 {% endif %}">
+          Admin
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Flash Messages — Clean & Elegant -->
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      <div class="fixed top-28 left-1/2 -translate-x-1/2 z-50 max-w-md w-full px-6">
+        {% for category, message in messages %}
+          <div class="glass rounded-2xl p-5 mb-4 shadow-2xl border border-white/20 animate-in slide-in-from-top">
+            <div class="flex items-center space-x-4">
+              <div class="w-10 h-10 rounded-full flex items-center justify-center
+                          {% if category == 'error' %} bg-red-500/20 text-red-400
+                          {% else %} bg-emerald-500/20 text-emerald-400 {% endif %}">
+                {% if category != 'error' %}
+                  Checkmark
+                {% else %}
+                  X
+                {% endif %}
+              </div>
+              <p class="font-medium text-lg">{{ message }}</p>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endwith %}
+
+  <!-- Main Content -->
+  <main class="relative z-10 py-16 px-6">
+    <div class="max-w-7xl mx-auto">
+      {% block content %}{% endblock %}
+    </div>
+  </main>
+
+  <!-- Elegant Footer -->
+  <footer class="relative z-20 glass mt-32 py-16 border-t border-white/10">
+    <div class="max-w-7xl mx-auto px-6 text-center">
+      <div class="flex justify-center items-center space-x-4 mb-6">
+        <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center text-xl font-bold">
+          I
+        </div>
+        <span class="text-3xl font-bold gradient-text">Ignitron</span>
+      </div>
+      <p class="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
+        Intelligent car recommendations powered by machine learning. 
+        We help you find the perfect car — effortlessly.
+      </p>
+      <div class="mt-8 flex justify-center space-x-8 text-gray-500 text-sm">
+        <span>© 2025 Ignitron</span>
+        <span>•</span>
+        <span>Made with love for car lovers</span>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,172 @@
+[
+  {
+    "user_input": {
+      "Budget_Lakh": 15.0,
+      "Mileage_kmpl": 18.0,
+      "Seating_Capacity": 5,
+      "Car_Type": "Hatchback",
+      "Fuel_Type": "Petrol",
+      "Transmission": "Manual",
+      "Condition": "New",
+      "User_Needs": "Luxury",
+      "Car_Color": "Black"
+    },
+    "recommendations": [
+      {
+        "Car_Name": "Toyota Innova",
+        "Budget_Lakh": 14.95,
+        "Mileage_kmpl": 17.1,
+        "Seating_Capacity": 6,
+        "Car_Type": "Hatchback",
+        "Fuel_Type": "Electric",
+        "Transmission": "Automatic",
+        "Condition": "New",
+        "User_Needs": "Luxury",
+        "Car_Color": "Black",
+        "Target": "Not Recommended",
+        "Distance": 1.9525624189766628
+      },
+      {
+        "Car_Name": "Honda CR-V",
+        "Budget_Lakh": 14.52,
+        "Mileage_kmpl": 19.2,
+        "Seating_Capacity": 4,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Electric",
+        "Transmission": "Manual",
+        "Condition": "New",
+        "User_Needs": "Luxury",
+        "Car_Color": "Blue",
+        "Target": "Not Recommended",
+        "Distance": 2.3812601705819545
+      },
+      {
+        "Car_Name": "Honda Civic",
+        "Budget_Lakh": 13.58,
+        "Mileage_kmpl": 17.8,
+        "Seating_Capacity": 6,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Electric",
+        "Transmission": "Manual",
+        "Condition": "New",
+        "User_Needs": "Luxury",
+        "Car_Color": "Blue",
+        "Target": "Not Recommended",
+        "Distance": 2.4609754163745725
+      },
+      {
+        "Car_Name": "Maruti Swift",
+        "Budget_Lakh": 15.35,
+        "Mileage_kmpl": 18.0,
+        "Seating_Capacity": 4,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Electric",
+        "Transmission": "Manual",
+        "Condition": "Used",
+        "User_Needs": "Family",
+        "Car_Color": "Blue",
+        "Target": "Recommended",
+        "Distance": 2.4743686063317245
+      },
+      {
+        "Car_Name": "Kia Seltos",
+        "Budget_Lakh": 15.06,
+        "Mileage_kmpl": 17.3,
+        "Seating_Capacity": 4,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Petrol",
+        "Transmission": "Manual",
+        "Condition": "New",
+        "User_Needs": "Sporty",
+        "Car_Color": "Red",
+        "Target": "Not Recommended",
+        "Distance": 2.73744406335545
+      }
+    ]
+  },
+  {
+    "user_input": {
+      "Budget_Lakh": 14.0,
+      "Mileage_kmpl": 15.0,
+      "Seating_Capacity": 5,
+      "Car_Type": "SUV",
+      "Fuel_Type": "Petrol",
+      "Transmission": "Manual",
+      "Condition": "New",
+      "User_Needs": "Luxury",
+      "Car_Color": "Black"
+    },
+    "recommendations": [
+      {
+        "Car_Name": "Hyundai Tucson",
+        "Budget_Lakh": 13.74,
+        "Mileage_kmpl": 14.3,
+        "Seating_Capacity": 5,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Electric",
+        "Transmission": "Manual",
+        "Condition": "New",
+        "User_Needs": "Luxury",
+        "Car_Color": "Black",
+        "Target": "Recommended",
+        "Distance": 1.248038460945815
+      },
+      {
+        "Car_Name": "Kia Seltos",
+        "Budget_Lakh": 14.64,
+        "Mileage_kmpl": 14.9,
+        "Seating_Capacity": 6,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic",
+        "Condition": "New",
+        "User_Needs": "Family",
+        "Car_Color": "Black",
+        "Target": "Recommended",
+        "Distance": 1.84921605011421
+      },
+      {
+        "Car_Name": "Maruti Brezza",
+        "Budget_Lakh": 14.53,
+        "Mileage_kmpl": 14.2,
+        "Seating_Capacity": 5,
+        "Car_Type": "Hatchback",
+        "Fuel_Type": "Electric",
+        "Transmission": "Automatic",
+        "Condition": "New",
+        "User_Needs": "Luxury",
+        "Car_Color": "Black",
+        "Target": "Not Recommended",
+        "Distance": 1.9801262586006985
+      },
+      {
+        "Car_Name": "Hyundai Elantra",
+        "Budget_Lakh": 15.22,
+        "Mileage_kmpl": 14.4,
+        "Seating_Capacity": 5,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Electric",
+        "Transmission": "Manual",
+        "Condition": "Used",
+        "User_Needs": "Sporty",
+        "Car_Color": "Black",
+        "Target": "Not Recommended",
+        "Distance": 2.2019082633025384
+      },
+      {
+        "Car_Name": "Honda Jazz",
+        "Budget_Lakh": 15.24,
+        "Mileage_kmpl": 14.1,
+        "Seating_Capacity": 4,
+        "Car_Type": "SUV",
+        "Fuel_Type": "Petrol",
+        "Transmission": "Automatic",
+        "Condition": "Used",
+        "User_Needs": "Luxury",
+        "Car_Color": "Blue",
+        "Target": "Recommended",
+        "Distance": 2.5194443831924533
+      }
+    ]
+  }
+]

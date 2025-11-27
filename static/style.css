@@ -1,0 +1,21 @@
+/* animated bg */
+.animated-bg{
+  position:absolute;
+  inset:-30%;
+  background: radial-gradient(closest-side at 20% 20%, rgba(255,255,255,0.05), transparent 5%),
+              radial-gradient(closest-side at 80% 80%, rgba(255,255,255,0.03), transparent 5%),
+              linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.0));
+  filter: blur(40px);
+  animation: floatbg 12s linear infinite;
+  transform: rotate(10deg);
+  opacity: .9;
+}
+@keyframes floatbg {
+  0% { transform: translateY(0) rotate(0deg) scale(1); }
+  50% { transform: translateY(-8%) rotate(8deg) scale(1.05); }
+  100% { transform: translateY(0) rotate(0deg) scale(1); }
+}
+
+/* Slight card hover */
+[class*="bg-white/"] { transition: transform .25s ease, box-shadow .25s ease; }
+[class*="bg-white/"]:hover { transform: translateY(-6px); box-shadow: 0 10px 30px rgba(0,0,0,0.45); }

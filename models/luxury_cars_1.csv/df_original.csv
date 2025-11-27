@@ -1,0 +1,1001 @@
+Car_Name,Budget_Lakh,Mileage_kmpl,Seating_Capacity,Car_Type,Fuel_Type,Transmission,Condition,User_Needs,Car_Color,Target
+Porsche Panamera,252.12,14.1,4,Luxury,Diesel,Automatic,New,Family,Blue,Not Recommended
+Mercedes S-Class,33.24,7.9,5,Luxury,Petrol,Manual,Used,Luxury,Grey,Recommended
+Aston Martin Vantage,237.23,14.2,2,Luxury,Petrol,Automatic,New,Family,Black,Not Recommended
+Land Rover Range Rover,288.74,5.1,5,Luxury,Petrol,Automatic,Used,Family,Black,Recommended
+Lamborghini Huracan,222.82,11.8,5,Luxury,Diesel,Automatic,Used,Sports,Black,Not Recommended
+Audi RS7,121.69,11.4,5,Luxury,Hybrid,Automatic,Used,Sports,Red,Recommended
+Jaguar F-Type,258.71,10.1,2,Luxury,Diesel,Manual,New,Family,Black,Recommended
+Mercedes AMG GT,155.79,13.8,4,Luxury,Diesel,Automatic,Used,Luxury,Red,Not Recommended
+Mercedes AMG GT,110.67,13.7,2,Luxury,Diesel,Automatic,New,Sports,Blue,Not Recommended
+BMW Z4,95.0,12.4,4,Luxury,Petrol,Manual,New,Family,Red,Not Recommended
+Audi RS7,275.85,6.3,2,Luxury,Hybrid,Manual,Used,Luxury,Grey,Recommended
+Porsche Cayenne,176.27,13.4,4,Luxury,Diesel,Manual,New,Sports,Blue,Not Recommended
+BMW M5,199.89,6.4,5,Luxury,Petrol,Automatic,Used,Family,Blue,Recommended
+Aston Martin Vantage,52.14,7.5,4,Luxury,Petrol,Manual,Used,Sports,Blue,Recommended
+Audi RS5,90.02,6.1,2,Luxury,Hybrid,Manual,New,Luxury,White,Not Recommended
+Jaguar F-Type,38.77,9.9,5,Luxury,Hybrid,Automatic,Used,Family,Blue,Not Recommended
+Lamborghini Huracan,129.11,13.8,4,Luxury,Petrol,Automatic,Used,Family,Red,Not Recommended
+Mercedes S-Class,159.62,13.8,5,Luxury,Petrol,Automatic,Used,Family,Black,Recommended
+BMW M4,83.98,6.7,4,Luxury,Hybrid,Manual,New,Family,Black,Recommended
+Aston Martin Vantage,203.63,5.8,2,Luxury,Petrol,Automatic,New,Family,White,Recommended
+Aston Martin Vantage,297.23,10.7,4,Luxury,Diesel,Manual,Used,Family,Grey,Recommended
+Jaguar F-Type,81.07,7.5,5,Luxury,Diesel,Automatic,Used,Sports,Grey,Not Recommended
+Audi RS5,194.23,8.9,5,Luxury,Petrol,Automatic,New,Family,Red,Recommended
+BMW M4,82.06,7.6,2,Luxury,Petrol,Automatic,New,Family,Grey,Not Recommended
+BMW M4,146.65,7.6,5,Luxury,Petrol,Manual,New,Luxury,Red,Recommended
+BMW M4,216.1,8.0,5,Luxury,Hybrid,Automatic,Used,Luxury,Black,Not Recommended
+BMW M4,201.57,14.1,5,Luxury,Hybrid,Manual,Used,Sports,Red,Not Recommended
+Porsche Cayenne,226.82,9.8,2,Luxury,Diesel,Manual,New,Sports,White,Not Recommended
+Lamborghini Huracan,114.85,12.4,4,Luxury,Hybrid,Manual,Used,Luxury,Grey,Not Recommended
+Mercedes S-Class,130.2,7.7,2,Luxury,Hybrid,Manual,Used,Sports,White,Not Recommended
+BMW M4,86.37,10.0,4,Luxury,Petrol,Manual,Used,Luxury,Blue,Not Recommended
+Bentley Continental GT,40.85,9.9,2,Luxury,Diesel,Automatic,New,Family,Red,Not Recommended
+Land Rover Range Rover,98.48,14.2,4,Luxury,Hybrid,Automatic,Used,Family,Black,Recommended
+Bentley Continental GT,186.29,5.1,2,Luxury,Petrol,Manual,Used,Luxury,Black,Not Recommended
+BMW M5,276.16,5.4,5,Luxury,Petrol,Manual,New,Sports,White,Not Recommended
+Ferrari Roma,61.2,5.9,2,Luxury,Diesel,Manual,Used,Family,Black,Not Recommended
+Aston Martin Vantage,180.04,5.1,4,Luxury,Hybrid,Automatic,New,Family,Red,Not Recommended
+Porsche Cayenne,59.4,12.3,5,Luxury,Petrol,Manual,New,Sports,Black,Not Recommended
+BMW M5,192.08,7.2,4,Luxury,Hybrid,Automatic,Used,Family,Black,Not Recommended
+Lamborghini Huracan,51.52,10.8,5,Luxury,Diesel,Automatic,New,Family,Black,Recommended
+Porsche Panamera,177.14,12.5,4,Luxury,Petrol,Manual,Used,Family,Red,Not Recommended
+Jaguar F-Type,61.19,11.8,5,Luxury,Hybrid,Automatic,New,Luxury,Black,Recommended
+Audi RS5,192.04,13.1,2,Luxury,Petrol,Automatic,Used,Family,White,Not Recommended
+Audi RS7,144.29,10.9,2,Luxury,Diesel,Manual,Used,Family,Black,Recommended
+Porsche Cayenne,127.24,7.8,5,Luxury,Petrol,Automatic,Used,Family,Red,Not Recommended
+Lamborghini Huracan,212.84,10.4,4,Luxury,Hybrid,Manual,New,Luxury,Blue,Not Recommended
+Rolls-Royce Ghost,185.05,6.7,2,Luxury,Petrol,Automatic,Used,Sports,Blue,Recommended
+Aston Martin Vantage,206.5,11.0,2,Luxury,Hybrid,Manual,New,Sports,Red,Not Recommended
+Lamborghini Huracan,275.14,5.0,4,Luxury,Diesel,Manual,New,Family,Blue,Recommended
+Lexus LC500h,64.33,10.5,5,Luxury,Hybrid,Manual,Used,Family,White,Not Recommended
+Jaguar XF,242.98,13.9,5,Luxury,Hybrid,Manual,New,Family,Black,Not Recommended
+Porsche Cayenne,85.7,10.9,5,Luxury,Hybrid,Manual,New,Family,Black,Not Recommended
+Porsche Panamera,197.14,10.0,5,Luxury,Hybrid,Automatic,Used,Sports,Blue,Not Recommended
+BMW Z4,122.04,11.4,2,Luxury,Petrol,Automatic,New,Sports,White,Not Recommended
+Lamborghini Huracan,168.37,8.7,2,Luxury,Hybrid,Automatic,New,Family,Blue,Not Recommended
+Mercedes S-Class,86.55,8.8,5,Luxury,Hybrid,Automatic,Used,Luxury,White,Not Recommended
+Porsche Cayenne,274.28,10.6,4,Luxury,Hybrid,Manual,New,Sports,White,Not Recommended
+Range Rover Sport,111.36,7.9,4,Luxury,Diesel,Manual,Used,Family,White,Recommended
+Audi A8L,168.54,6.7,4,Luxury,Petrol,Automatic,New,Sports,White,Not Recommended
+Mercedes AMG GT,173.37,5.2,5,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Audi A8L,86.44,7.0,5,Luxury,Petrol,Manual,New,Luxury,Grey,Recommended
+Lamborghini Huracan,296.33,6.8,5,Luxury,Hybrid,Automatic,New,Luxury,White,Not Recommended
+Jaguar F-Type,229.91,14.8,5,Luxury,Petrol,Automatic,New,Luxury,Blue,Not Recommended
+Bentley Continental GT,221.08,13.2,5,Luxury,Diesel,Manual,New,Family,Grey,Recommended
+Porsche 911,57.53,12.3,5,Luxury,Hybrid,Manual,Used,Family,Red,Recommended
+Porsche 911,209.26,6.4,5,Luxury,Hybrid,Automatic,Used,Family,Black,Recommended
+Land Rover Range Rover,221.75,8.7,4,Luxury,Diesel,Automatic,Used,Sports,White,Not Recommended
+Rolls-Royce Phantom,131.19,8.6,5,Luxury,Hybrid,Manual,New,Sports,Blue,Recommended
+Rolls-Royce Ghost,275.6,7.0,5,Luxury,Petrol,Automatic,New,Sports,White,Not Recommended
+Audi RS5,208.63,14.3,5,Luxury,Petrol,Automatic,Used,Family,White,Not Recommended
+Rolls-Royce Phantom,228.86,11.0,2,Luxury,Diesel,Manual,Used,Sports,Blue,Recommended
+Audi RS7,101.22,8.1,2,Luxury,Diesel,Manual,New,Sports,Grey,Recommended
+Ferrari Roma,121.57,7.3,5,Luxury,Petrol,Manual,Used,Sports,Blue,Not Recommended
+Audi RS5,220.83,11.3,2,Luxury,Hybrid,Automatic,New,Sports,Grey,Recommended
+Audi RS5,145.88,5.7,4,Luxury,Petrol,Manual,Used,Luxury,Black,Recommended
+Land Rover Range Rover,106.08,6.5,2,Luxury,Diesel,Automatic,Used,Sports,Blue,Recommended
+Mercedes AMG GT,288.37,12.2,2,Luxury,Diesel,Manual,New,Sports,Black,Not Recommended
+Mercedes S-Class,100.87,5.2,2,Luxury,Hybrid,Manual,New,Family,Grey,Not Recommended
+Porsche Panamera,265.62,6.5,4,Luxury,Petrol,Automatic,Used,Sports,Grey,Recommended
+Land Rover Range Rover,206.19,5.7,4,Luxury,Hybrid,Automatic,Used,Sports,Blue,Recommended
+Aston Martin Vantage,164.17,9.9,4,Luxury,Petrol,Automatic,Used,Luxury,Blue,Recommended
+Lexus LC500h,75.73,13.8,2,Luxury,Diesel,Automatic,Used,Luxury,White,Not Recommended
+Land Rover Range Rover,141.52,9.8,5,Luxury,Petrol,Automatic,Used,Family,Blue,Recommended
+BMW M5,104.74,12.3,5,Luxury,Diesel,Automatic,Used,Luxury,White,Not Recommended
+BMW M4,116.94,12.6,5,Luxury,Diesel,Manual,New,Luxury,Grey,Recommended
+Mercedes S-Class,200.84,6.7,5,Luxury,Hybrid,Manual,Used,Luxury,White,Not Recommended
+Porsche Cayenne,81.34,9.2,2,Luxury,Diesel,Automatic,Used,Sports,White,Recommended
+Audi A8L,263.03,6.4,4,Luxury,Hybrid,Manual,Used,Luxury,Black,Not Recommended
+BMW Z4,66.36,10.3,4,Luxury,Hybrid,Automatic,Used,Sports,Red,Recommended
+BMW M4,265.55,10.1,5,Luxury,Hybrid,Automatic,New,Luxury,Red,Recommended
+Jaguar XF,224.2,11.5,4,Luxury,Hybrid,Manual,New,Sports,White,Not Recommended
+Rolls-Royce Phantom,251.79,6.7,4,Luxury,Diesel,Manual,Used,Family,Grey,Not Recommended
+Mercedes AMG GT,114.74,9.5,5,Luxury,Hybrid,Manual,Used,Sports,Red,Recommended
+Rolls-Royce Ghost,30.38,9.9,4,Luxury,Petrol,Manual,New,Family,Grey,Recommended
+Rolls-Royce Ghost,161.26,6.9,5,Luxury,Diesel,Automatic,New,Family,Black,Not Recommended
+Jaguar F-Type,283.95,10.3,5,Luxury,Petrol,Manual,New,Family,Grey,Recommended
+Range Rover Sport,149.99,10.6,5,Luxury,Hybrid,Automatic,New,Family,Blue,Not Recommended
+Bentley Continental GT,199.15,6.9,2,Luxury,Diesel,Automatic,Used,Family,Red,Not Recommended
+Lexus LC500h,242.19,12.3,5,Luxury,Diesel,Manual,New,Luxury,Blue,Recommended
+Lamborghini Huracan,47.86,13.1,2,Luxury,Petrol,Manual,Used,Luxury,Blue,Recommended
+Aston Martin Vantage,282.52,8.6,2,Luxury,Diesel,Manual,Used,Luxury,White,Not Recommended
+BMW Z4,99.96,6.3,5,Luxury,Diesel,Automatic,Used,Family,Blue,Recommended
+Range Rover Sport,194.09,7.0,2,Luxury,Petrol,Manual,Used,Family,Grey,Recommended
+Ferrari Roma,53.03,8.5,2,Luxury,Diesel,Manual,Used,Family,White,Recommended
+Ferrari Roma,295.26,7.7,2,Luxury,Hybrid,Manual,New,Sports,White,Not Recommended
+Jaguar F-Type,189.5,11.8,2,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+Mercedes S-Class,102.51,10.4,5,Luxury,Petrol,Manual,Used,Family,Black,Not Recommended
+Land Rover Range Rover,277.7,14.0,5,Luxury,Hybrid,Manual,Used,Luxury,Blue,Recommended
+Range Rover Sport,140.35,13.2,5,Luxury,Hybrid,Automatic,Used,Sports,White,Recommended
+Range Rover Sport,33.38,11.7,5,Luxury,Hybrid,Automatic,Used,Family,Red,Recommended
+BMW Z4,55.61,9.5,5,Luxury,Diesel,Automatic,New,Sports,Red,Not Recommended
+Porsche Panamera,218.03,9.1,4,Luxury,Hybrid,Automatic,Used,Sports,Black,Recommended
+BMW M4,249.36,6.6,2,Luxury,Diesel,Automatic,Used,Sports,Blue,Recommended
+Lamborghini Huracan,152.72,8.0,4,Luxury,Petrol,Automatic,Used,Family,Red,Not Recommended
+Aston Martin Vantage,266.21,6.1,5,Luxury,Petrol,Manual,Used,Family,Red,Not Recommended
+Porsche Panamera,173.17,10.4,2,Luxury,Diesel,Manual,New,Sports,Grey,Not Recommended
+Porsche Panamera,158.48,10.5,2,Luxury,Diesel,Automatic,New,Sports,Black,Not Recommended
+Aston Martin Vantage,204.1,14.8,4,Luxury,Petrol,Manual,New,Sports,Grey,Recommended
+BMW M5,54.76,11.4,5,Luxury,Hybrid,Manual,Used,Luxury,Black,Not Recommended
+Jaguar XF,179.12,10.6,5,Luxury,Diesel,Automatic,New,Family,Blue,Recommended
+Mercedes S-Class,262.47,10.2,4,Luxury,Diesel,Automatic,New,Sports,Red,Not Recommended
+Jaguar F-Type,136.78,10.5,5,Luxury,Diesel,Automatic,New,Luxury,Black,Recommended
+Mercedes AMG GT,71.13,8.3,4,Luxury,Hybrid,Manual,New,Sports,Red,Recommended
+Mercedes AMG GT,49.38,7.2,4,Luxury,Petrol,Manual,Used,Family,Black,Not Recommended
+Jaguar F-Type,159.03,12.3,5,Luxury,Hybrid,Manual,New,Sports,Black,Recommended
+Bentley Continental GT,56.42,6.6,5,Luxury,Petrol,Manual,New,Luxury,Grey,Not Recommended
+Bentley Continental GT,262.65,6.7,4,Luxury,Petrol,Manual,Used,Family,White,Recommended
+Porsche Panamera,151.27,11.9,2,Luxury,Petrol,Manual,Used,Family,White,Not Recommended
+Ferrari Roma,247.22,11.7,4,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+Audi RS5,188.66,12.2,5,Luxury,Hybrid,Automatic,New,Sports,Grey,Not Recommended
+Porsche Panamera,48.94,13.6,4,Luxury,Diesel,Automatic,Used,Luxury,Blue,Not Recommended
+BMW Z4,148.4,6.9,4,Luxury,Petrol,Manual,New,Family,Black,Not Recommended
+Mercedes S-Class,222.09,14.1,5,Luxury,Petrol,Automatic,Used,Sports,Red,Not Recommended
+Bentley Continental GT,246.53,9.2,5,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+Audi RS5,221.45,13.6,5,Luxury,Diesel,Manual,Used,Luxury,Red,Recommended
+Porsche Cayenne,135.97,12.3,4,Luxury,Petrol,Manual,Used,Sports,White,Not Recommended
+Mercedes S-Class,164.72,14.6,5,Luxury,Diesel,Manual,New,Luxury,Grey,Recommended
+BMW M4,44.09,11.4,4,Luxury,Petrol,Manual,New,Sports,Red,Not Recommended
+Lexus LC500h,269.53,7.8,4,Luxury,Petrol,Automatic,Used,Luxury,Red,Not Recommended
+Audi RS7,90.42,13.5,5,Luxury,Diesel,Automatic,New,Sports,White,Not Recommended
+Lexus LC500h,217.24,13.7,5,Luxury,Petrol,Automatic,New,Family,Blue,Recommended
+Jaguar F-Type,162.31,8.8,4,Luxury,Hybrid,Automatic,Used,Sports,Grey,Not Recommended
+Lamborghini Huracan,128.57,13.5,5,Luxury,Petrol,Manual,New,Family,Red,Recommended
+BMW Z4,167.04,10.1,5,Luxury,Diesel,Manual,New,Sports,Blue,Not Recommended
+Land Rover Range Rover,167.74,6.0,5,Luxury,Petrol,Automatic,New,Family,Black,Recommended
+Rolls-Royce Ghost,132.3,7.0,2,Luxury,Diesel,Automatic,Used,Sports,White,Not Recommended
+BMW M4,94.69,6.1,5,Luxury,Petrol,Automatic,New,Family,Grey,Not Recommended
+Audi A8L,220.56,9.3,5,Luxury,Diesel,Automatic,New,Sports,Blue,Not Recommended
+Lexus LC500h,67.85,7.3,5,Luxury,Diesel,Manual,New,Luxury,Grey,Not Recommended
+Audi RS5,163.52,13.5,5,Luxury,Petrol,Automatic,Used,Family,White,Not Recommended
+Land Rover Range Rover,140.78,14.1,2,Luxury,Petrol,Automatic,New,Family,Grey,Not Recommended
+Ferrari Roma,151.28,9.3,2,Luxury,Petrol,Automatic,Used,Luxury,White,Not Recommended
+Mercedes S-Class,88.2,7.5,5,Luxury,Hybrid,Manual,New,Sports,Red,Recommended
+Porsche Cayenne,245.52,14.2,4,Luxury,Petrol,Automatic,New,Luxury,Grey,Recommended
+Bentley Continental GT,110.44,8.8,4,Luxury,Hybrid,Manual,New,Sports,Red,Not Recommended
+Jaguar XF,276.48,14.8,2,Luxury,Petrol,Manual,Used,Sports,White,Not Recommended
+Jaguar XF,158.77,10.9,2,Luxury,Diesel,Manual,Used,Family,White,Not Recommended
+Porsche 911,270.77,11.1,2,Luxury,Petrol,Automatic,Used,Luxury,Blue,Not Recommended
+Porsche Panamera,47.65,5.5,5,Luxury,Petrol,Manual,New,Sports,White,Recommended
+Rolls-Royce Ghost,226.66,6.8,2,Luxury,Hybrid,Manual,Used,Luxury,Red,Not Recommended
+BMW M4,233.12,14.5,5,Luxury,Petrol,Manual,Used,Family,White,Recommended
+Jaguar XF,297.96,5.7,5,Luxury,Petrol,Automatic,Used,Luxury,Blue,Not Recommended
+Ferrari Roma,38.6,9.2,4,Luxury,Diesel,Manual,Used,Luxury,White,Not Recommended
+Lamborghini Huracan,80.14,10.0,2,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Mercedes S-Class,81.06,6.3,5,Luxury,Hybrid,Manual,Used,Sports,Grey,Recommended
+Range Rover Sport,94.02,5.6,2,Luxury,Diesel,Automatic,New,Family,Black,Recommended
+Lamborghini Huracan,248.09,12.1,5,Luxury,Petrol,Automatic,New,Luxury,Grey,Not Recommended
+Jaguar F-Type,264.79,7.6,2,Luxury,Petrol,Manual,Used,Family,Grey,Not Recommended
+BMW Z4,105.83,5.6,5,Luxury,Diesel,Automatic,Used,Luxury,Black,Not Recommended
+Porsche Panamera,111.56,5.8,5,Luxury,Petrol,Manual,New,Luxury,White,Not Recommended
+Audi A8L,46.84,6.7,2,Luxury,Petrol,Automatic,New,Family,Black,Not Recommended
+Rolls-Royce Ghost,128.06,8.4,4,Luxury,Diesel,Automatic,Used,Sports,Grey,Not Recommended
+Audi A8L,52.7,5.2,2,Luxury,Petrol,Manual,Used,Luxury,Black,Not Recommended
+Mercedes S-Class,129.8,13.0,4,Luxury,Petrol,Automatic,New,Sports,Black,Not Recommended
+Rolls-Royce Phantom,200.58,11.6,4,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+Ferrari Roma,86.54,14.9,4,Luxury,Diesel,Manual,Used,Luxury,Red,Not Recommended
+Aston Martin Vantage,107.68,10.9,5,Luxury,Diesel,Manual,New,Luxury,Red,Not Recommended
+Lexus LC500h,177.4,12.8,2,Luxury,Diesel,Automatic,Used,Sports,Blue,Recommended
+Mercedes AMG GT,86.6,11.7,5,Luxury,Petrol,Automatic,Used,Luxury,Grey,Recommended
+Range Rover Sport,266.45,9.9,4,Luxury,Petrol,Automatic,New,Sports,Black,Recommended
+Audi RS7,176.16,14.7,5,Luxury,Diesel,Automatic,Used,Sports,Black,Not Recommended
+Audi A8L,60.55,12.9,5,Luxury,Diesel,Automatic,New,Luxury,Blue,Recommended
+Ferrari Roma,283.01,6.4,5,Luxury,Diesel,Automatic,New,Family,Blue,Not Recommended
+Jaguar XF,152.16,9.8,2,Luxury,Petrol,Automatic,New,Sports,White,Recommended
+Audi RS7,65.47,7.1,2,Luxury,Petrol,Automatic,New,Family,Red,Not Recommended
+Audi RS7,105.83,11.8,5,Luxury,Petrol,Automatic,Used,Sports,Blue,Not Recommended
+Bentley Continental GT,159.06,5.3,2,Luxury,Petrol,Manual,Used,Sports,Black,Recommended
+Mercedes AMG GT,237.87,12.7,4,Luxury,Diesel,Automatic,Used,Luxury,Red,Recommended
+Range Rover Sport,239.28,8.1,4,Luxury,Petrol,Manual,Used,Luxury,Black,Not Recommended
+Audi RS5,83.87,13.2,2,Luxury,Petrol,Manual,New,Luxury,Red,Recommended
+Porsche Cayenne,239.07,14.7,5,Luxury,Hybrid,Automatic,Used,Luxury,Blue,Recommended
+BMW M4,71.13,5.6,5,Luxury,Diesel,Automatic,New,Family,Black,Not Recommended
+Porsche 911,125.86,7.2,4,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Audi A8L,41.56,7.2,5,Luxury,Hybrid,Manual,Used,Family,Blue,Recommended
+BMW M5,172.76,14.0,2,Luxury,Petrol,Automatic,Used,Luxury,Red,Not Recommended
+Lexus LC500h,234.73,14.9,5,Luxury,Diesel,Automatic,New,Family,Blue,Not Recommended
+Porsche 911,98.32,8.6,4,Luxury,Diesel,Manual,New,Family,Red,Recommended
+Audi RS5,82.56,14.2,5,Luxury,Hybrid,Manual,Used,Luxury,Blue,Not Recommended
+Porsche Cayenne,161.32,11.8,2,Luxury,Hybrid,Manual,Used,Luxury,White,Recommended
+Audi RS5,61.43,8.6,5,Luxury,Diesel,Automatic,Used,Family,White,Recommended
+BMW M5,237.99,6.5,2,Luxury,Hybrid,Manual,New,Luxury,Grey,Not Recommended
+Range Rover Sport,256.81,14.5,4,Luxury,Diesel,Automatic,Used,Sports,Red,Recommended
+Porsche 911,104.3,7.4,2,Luxury,Hybrid,Automatic,New,Family,Blue,Recommended
+Jaguar XF,146.0,10.9,2,Luxury,Diesel,Automatic,Used,Sports,White,Recommended
+Range Rover Sport,54.91,13.7,4,Luxury,Hybrid,Automatic,Used,Family,Black,Recommended
+Mercedes AMG GT,140.48,14.3,4,Luxury,Petrol,Manual,Used,Family,White,Recommended
+Rolls-Royce Ghost,194.65,8.9,2,Luxury,Hybrid,Manual,New,Luxury,White,Recommended
+Rolls-Royce Ghost,140.81,14.4,2,Luxury,Petrol,Manual,Used,Luxury,Black,Not Recommended
+BMW Z4,229.81,7.9,5,Luxury,Hybrid,Automatic,Used,Family,Blue,Recommended
+Audi RS7,162.07,5.6,4,Luxury,Diesel,Automatic,New,Family,Grey,Recommended
+Lexus LC500h,278.74,5.6,4,Luxury,Petrol,Automatic,Used,Family,Blue,Not Recommended
+Bentley Continental GT,94.87,6.5,5,Luxury,Hybrid,Manual,Used,Luxury,Red,Not Recommended
+BMW Z4,54.2,13.2,5,Luxury,Petrol,Automatic,New,Sports,Black,Recommended
+Bentley Continental GT,124.14,7.7,4,Luxury,Hybrid,Automatic,New,Luxury,Grey,Recommended
+Porsche Cayenne,179.35,12.2,4,Luxury,Diesel,Manual,New,Luxury,Black,Recommended
+Range Rover Sport,203.47,7.9,2,Luxury,Hybrid,Manual,Used,Family,Blue,Not Recommended
+BMW M5,285.36,8.7,5,Luxury,Hybrid,Automatic,New,Family,Red,Recommended
+Lexus LC500h,174.33,11.6,5,Luxury,Petrol,Manual,Used,Sports,Grey,Recommended
+Lamborghini Huracan,225.96,11.7,2,Luxury,Petrol,Manual,New,Luxury,Red,Recommended
+Range Rover Sport,124.45,8.6,5,Luxury,Hybrid,Manual,Used,Luxury,Grey,Not Recommended
+Aston Martin Vantage,37.19,11.5,4,Luxury,Hybrid,Manual,New,Luxury,Grey,Recommended
+Aston Martin Vantage,41.79,13.1,5,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+Audi RS5,286.22,6.8,4,Luxury,Diesel,Manual,New,Sports,Red,Recommended
+Mercedes S-Class,241.13,10.9,2,Luxury,Diesel,Manual,New,Family,Black,Recommended
+Range Rover Sport,282.65,14.8,4,Luxury,Hybrid,Automatic,Used,Sports,White,Not Recommended
+BMW Z4,299.75,9.2,5,Luxury,Diesel,Automatic,New,Luxury,Blue,Not Recommended
+Mercedes S-Class,166.48,10.1,4,Luxury,Petrol,Manual,New,Sports,Red,Not Recommended
+Mercedes AMG GT,252.53,6.5,4,Luxury,Petrol,Automatic,Used,Luxury,Grey,Recommended
+Audi RS5,90.23,6.4,4,Luxury,Petrol,Automatic,Used,Luxury,Black,Not Recommended
+Lamborghini Huracan,299.67,10.6,4,Luxury,Diesel,Manual,Used,Family,Blue,Recommended
+Jaguar F-Type,172.33,10.2,5,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Rolls-Royce Phantom,66.83,7.2,2,Luxury,Hybrid,Manual,Used,Family,Black,Not Recommended
+Porsche 911,129.99,12.2,2,Luxury,Hybrid,Automatic,New,Sports,White,Not Recommended
+Mercedes S-Class,284.58,11.7,2,Luxury,Diesel,Automatic,New,Luxury,Grey,Not Recommended
+Jaguar XF,232.35,8.1,5,Luxury,Diesel,Automatic,Used,Sports,Red,Not Recommended
+BMW Z4,294.06,14.4,4,Luxury,Diesel,Manual,Used,Sports,Grey,Recommended
+Range Rover Sport,269.43,9.2,5,Luxury,Hybrid,Manual,New,Sports,Grey,Recommended
+Land Rover Range Rover,281.45,6.8,5,Luxury,Petrol,Automatic,Used,Family,Red,Recommended
+Rolls-Royce Phantom,265.23,13.8,5,Luxury,Petrol,Automatic,New,Sports,Red,Not Recommended
+Audi RS5,262.43,8.6,4,Luxury,Hybrid,Manual,New,Sports,Grey,Recommended
+BMW Z4,298.14,14.8,5,Luxury,Petrol,Manual,New,Family,Grey,Not Recommended
+BMW M5,160.76,7.6,2,Luxury,Hybrid,Manual,Used,Luxury,White,Recommended
+Mercedes AMG GT,168.42,5.9,5,Luxury,Hybrid,Automatic,New,Family,White,Not Recommended
+Lamborghini Huracan,75.83,13.5,4,Luxury,Hybrid,Manual,Used,Luxury,Blue,Not Recommended
+Jaguar XF,124.33,7.6,4,Luxury,Petrol,Automatic,New,Luxury,Blue,Recommended
+Mercedes S-Class,101.07,11.3,5,Luxury,Petrol,Automatic,Used,Sports,Black,Recommended
+Land Rover Range Rover,273.31,6.9,5,Luxury,Diesel,Manual,New,Luxury,Black,Recommended
+Porsche Panamera,62.06,5.2,2,Luxury,Diesel,Automatic,Used,Sports,White,Recommended
+Lexus LC500h,88.43,12.4,5,Luxury,Petrol,Automatic,Used,Sports,Grey,Recommended
+Jaguar F-Type,145.67,14.1,2,Luxury,Hybrid,Automatic,New,Luxury,Grey,Not Recommended
+Rolls-Royce Phantom,296.45,14.0,4,Luxury,Diesel,Automatic,New,Luxury,Blue,Not Recommended
+Rolls-Royce Ghost,225.93,12.9,5,Luxury,Petrol,Manual,New,Sports,Blue,Not Recommended
+Jaguar F-Type,290.57,10.7,5,Luxury,Petrol,Manual,New,Luxury,Blue,Recommended
+Porsche Cayenne,173.69,5.3,2,Luxury,Petrol,Manual,New,Family,Blue,Recommended
+Mercedes AMG GT,261.28,9.8,5,Luxury,Hybrid,Manual,Used,Family,White,Not Recommended
+Bentley Continental GT,34.35,14.7,4,Luxury,Hybrid,Manual,New,Sports,Black,Recommended
+BMW Z4,242.35,13.1,4,Luxury,Petrol,Automatic,New,Luxury,Grey,Recommended
+Aston Martin Vantage,130.24,12.3,5,Luxury,Diesel,Manual,Used,Family,Blue,Recommended
+Range Rover Sport,96.54,10.0,5,Luxury,Hybrid,Manual,Used,Sports,White,Not Recommended
+Audi A8L,220.69,14.5,4,Luxury,Diesel,Manual,New,Sports,Blue,Not Recommended
+BMW Z4,278.03,7.5,5,Luxury,Petrol,Manual,Used,Luxury,Red,Not Recommended
+Porsche Panamera,242.79,8.5,4,Luxury,Petrol,Automatic,New,Sports,Grey,Not Recommended
+Mercedes S-Class,59.75,7.7,4,Luxury,Diesel,Manual,New,Family,Blue,Not Recommended
+Mercedes S-Class,105.31,6.6,4,Luxury,Hybrid,Manual,New,Family,Grey,Recommended
+Rolls-Royce Phantom,274.76,8.7,5,Luxury,Petrol,Automatic,New,Family,Blue,Recommended
+Mercedes AMG GT,209.77,13.6,4,Luxury,Hybrid,Automatic,Used,Sports,Grey,Not Recommended
+Lamborghini Huracan,285.53,7.7,5,Luxury,Diesel,Manual,New,Sports,Black,Recommended
+Jaguar XF,134.97,8.2,2,Luxury,Diesel,Automatic,Used,Luxury,Blue,Recommended
+Land Rover Range Rover,126.5,13.4,2,Luxury,Diesel,Manual,Used,Family,Blue,Not Recommended
+Audi A8L,238.66,9.2,2,Luxury,Hybrid,Automatic,Used,Sports,Grey,Not Recommended
+Audi A8L,131.03,6.1,4,Luxury,Hybrid,Automatic,New,Sports,White,Not Recommended
+Lamborghini Huracan,284.68,8.2,2,Luxury,Diesel,Automatic,Used,Family,Black,Not Recommended
+Audi RS7,198.99,5.3,4,Luxury,Petrol,Automatic,Used,Sports,Black,Recommended
+Rolls-Royce Phantom,225.78,7.6,5,Luxury,Hybrid,Automatic,New,Luxury,Blue,Not Recommended
+Porsche 911,215.45,7.8,2,Luxury,Diesel,Manual,New,Family,White,Not Recommended
+Porsche 911,84.42,10.7,5,Luxury,Hybrid,Automatic,Used,Luxury,Black,Recommended
+Range Rover Sport,198.08,13.9,5,Luxury,Diesel,Automatic,Used,Family,Red,Recommended
+BMW Z4,277.99,6.9,2,Luxury,Hybrid,Automatic,Used,Family,Black,Recommended
+Bentley Continental GT,124.44,6.4,5,Luxury,Diesel,Manual,Used,Sports,White,Recommended
+Audi RS7,222.17,10.8,4,Luxury,Petrol,Automatic,New,Luxury,Black,Not Recommended
+Lamborghini Huracan,183.55,7.4,5,Luxury,Diesel,Manual,Used,Luxury,White,Recommended
+Rolls-Royce Phantom,226.92,5.9,4,Luxury,Hybrid,Manual,New,Luxury,White,Recommended
+Porsche 911,75.31,7.6,2,Luxury,Diesel,Automatic,New,Sports,Black,Not Recommended
+Rolls-Royce Ghost,135.33,13.1,5,Luxury,Petrol,Automatic,Used,Luxury,Grey,Not Recommended
+Audi RS7,84.37,8.6,5,Luxury,Diesel,Automatic,Used,Family,Blue,Not Recommended
+Rolls-Royce Phantom,290.7,5.0,2,Luxury,Hybrid,Automatic,Used,Luxury,White,Not Recommended
+Mercedes S-Class,62.51,13.4,5,Luxury,Hybrid,Manual,New,Family,Blue,Not Recommended
+Rolls-Royce Phantom,244.05,7.4,4,Luxury,Hybrid,Manual,Used,Sports,Red,Not Recommended
+Jaguar XF,65.16,7.9,5,Luxury,Hybrid,Manual,New,Sports,Blue,Not Recommended
+Porsche Panamera,209.02,11.3,4,Luxury,Diesel,Manual,Used,Family,Blue,Not Recommended
+Ferrari Roma,218.38,11.1,4,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+Ferrari Roma,281.68,12.3,4,Luxury,Hybrid,Manual,New,Luxury,Red,Not Recommended
+Jaguar XF,35.04,8.2,2,Luxury,Hybrid,Manual,Used,Sports,Black,Recommended
+Jaguar F-Type,291.26,9.4,4,Luxury,Petrol,Manual,Used,Family,Red,Not Recommended
+BMW M5,285.04,6.8,4,Luxury,Hybrid,Manual,Used,Luxury,Blue,Not Recommended
+BMW M5,42.84,13.5,5,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+BMW M4,282.29,7.1,2,Luxury,Diesel,Manual,Used,Luxury,Red,Not Recommended
+Porsche 911,48.45,7.1,2,Luxury,Petrol,Automatic,New,Luxury,Grey,Not Recommended
+Lamborghini Huracan,123.09,14.7,5,Luxury,Diesel,Manual,New,Sports,Grey,Recommended
+Audi A8L,298.92,5.5,2,Luxury,Diesel,Manual,Used,Sports,Black,Recommended
+Rolls-Royce Phantom,110.79,7.7,5,Luxury,Diesel,Manual,Used,Sports,White,Recommended
+Ferrari Roma,207.35,12.4,2,Luxury,Hybrid,Automatic,Used,Luxury,Grey,Not Recommended
+Jaguar XF,250.73,5.4,2,Luxury,Hybrid,Automatic,Used,Luxury,Red,Recommended
+Rolls-Royce Phantom,199.69,13.5,5,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Porsche 911,164.03,11.5,2,Luxury,Petrol,Manual,Used,Sports,Red,Recommended
+BMW Z4,39.11,10.6,5,Luxury,Diesel,Manual,New,Luxury,Red,Not Recommended
+Mercedes AMG GT,210.75,7.8,2,Luxury,Petrol,Manual,Used,Sports,Blue,Recommended
+Porsche 911,192.38,7.6,2,Luxury,Diesel,Manual,Used,Luxury,Black,Not Recommended
+BMW M5,88.06,5.5,2,Luxury,Petrol,Manual,Used,Sports,Black,Recommended
+Rolls-Royce Ghost,214.99,9.7,5,Luxury,Diesel,Manual,New,Family,Grey,Not Recommended
+Audi A8L,255.17,5.4,2,Luxury,Diesel,Manual,New,Family,Blue,Not Recommended
+Mercedes AMG GT,100.84,11.8,4,Luxury,Hybrid,Manual,Used,Sports,Red,Not Recommended
+Lamborghini Huracan,155.36,5.7,4,Luxury,Petrol,Automatic,New,Family,Grey,Not Recommended
+Ferrari Roma,123.08,8.1,5,Luxury,Diesel,Automatic,New,Family,Red,Not Recommended
+Audi RS7,232.94,14.7,2,Luxury,Petrol,Automatic,Used,Sports,Red,Recommended
+Porsche 911,202.79,13.5,5,Luxury,Diesel,Manual,New,Family,Black,Recommended
+Audi A8L,205.64,5.5,2,Luxury,Hybrid,Manual,New,Luxury,Grey,Recommended
+Porsche Cayenne,106.55,10.9,5,Luxury,Hybrid,Automatic,Used,Sports,Grey,Recommended
+Jaguar F-Type,265.35,11.5,5,Luxury,Petrol,Manual,Used,Sports,White,Recommended
+Land Rover Range Rover,130.98,13.8,5,Luxury,Diesel,Manual,Used,Luxury,Red,Recommended
+Jaguar XF,290.56,10.5,2,Luxury,Hybrid,Manual,Used,Family,Red,Not Recommended
+Aston Martin Vantage,254.74,11.3,5,Luxury,Hybrid,Manual,New,Family,Blue,Not Recommended
+Jaguar F-Type,73.35,6.6,5,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Bentley Continental GT,121.58,9.7,2,Luxury,Petrol,Automatic,Used,Luxury,White,Not Recommended
+BMW Z4,111.3,10.2,2,Luxury,Diesel,Manual,Used,Sports,Red,Recommended
+Mercedes S-Class,260.45,13.3,4,Luxury,Hybrid,Automatic,New,Sports,Blue,Recommended
+Mercedes S-Class,233.88,9.4,4,Luxury,Diesel,Manual,Used,Sports,Grey,Recommended
+Audi RS5,251.21,10.9,2,Luxury,Diesel,Manual,Used,Family,Red,Recommended
+Lexus LC500h,201.47,12.7,5,Luxury,Petrol,Manual,Used,Luxury,Black,Recommended
+BMW M5,252.66,11.2,2,Luxury,Diesel,Automatic,New,Sports,Blue,Recommended
+Range Rover Sport,186.4,9.7,4,Luxury,Diesel,Automatic,Used,Sports,Blue,Not Recommended
+Lamborghini Huracan,77.92,6.8,2,Luxury,Petrol,Automatic,Used,Family,Blue,Recommended
+BMW Z4,261.75,10.1,5,Luxury,Diesel,Automatic,Used,Sports,Blue,Recommended
+Bentley Continental GT,295.89,7.4,2,Luxury,Petrol,Manual,New,Sports,Black,Recommended
+Rolls-Royce Ghost,217.11,9.0,5,Luxury,Hybrid,Automatic,Used,Family,Grey,Not Recommended
+BMW Z4,94.47,9.3,4,Luxury,Diesel,Manual,New,Luxury,Grey,Recommended
+Jaguar F-Type,189.13,5.8,4,Luxury,Hybrid,Automatic,Used,Luxury,White,Recommended
+BMW Z4,209.62,9.6,4,Luxury,Hybrid,Automatic,Used,Luxury,Grey,Not Recommended
+Jaguar F-Type,235.49,6.8,5,Luxury,Diesel,Automatic,Used,Sports,Red,Not Recommended
+Land Rover Range Rover,149.94,8.8,4,Luxury,Diesel,Manual,Used,Sports,Grey,Not Recommended
+BMW M4,289.99,7.8,4,Luxury,Diesel,Automatic,Used,Luxury,Red,Not Recommended
+Porsche 911,231.82,11.7,5,Luxury,Petrol,Automatic,Used,Family,Grey,Recommended
+BMW Z4,252.73,13.0,2,Luxury,Hybrid,Manual,Used,Luxury,Blue,Recommended
+Ferrari Roma,92.8,10.6,4,Luxury,Hybrid,Manual,Used,Sports,Red,Recommended
+Lexus LC500h,45.2,13.2,4,Luxury,Diesel,Automatic,Used,Sports,Red,Recommended
+Mercedes S-Class,146.61,8.4,2,Luxury,Diesel,Manual,New,Family,Black,Not Recommended
+BMW M4,89.87,6.0,2,Luxury,Hybrid,Manual,New,Family,Grey,Recommended
+Audi RS7,109.38,10.6,5,Luxury,Hybrid,Automatic,New,Sports,Red,Recommended
+Jaguar F-Type,34.43,8.1,4,Luxury,Diesel,Manual,New,Sports,White,Not Recommended
+Porsche Cayenne,224.02,6.2,5,Luxury,Petrol,Manual,Used,Luxury,Grey,Not Recommended
+Mercedes S-Class,60.21,10.4,2,Luxury,Diesel,Automatic,Used,Family,Blue,Recommended
+Lamborghini Huracan,195.67,11.0,5,Luxury,Diesel,Automatic,New,Sports,Black,Not Recommended
+Rolls-Royce Ghost,191.97,7.8,4,Luxury,Hybrid,Automatic,New,Sports,Blue,Not Recommended
+Audi RS5,182.6,8.0,4,Luxury,Diesel,Automatic,Used,Sports,White,Not Recommended
+Porsche Panamera,155.74,9.4,5,Luxury,Diesel,Manual,New,Family,White,Recommended
+Bentley Continental GT,123.56,7.6,5,Luxury,Hybrid,Automatic,Used,Luxury,Black,Not Recommended
+Porsche Cayenne,139.71,13.8,2,Luxury,Diesel,Automatic,New,Luxury,Grey,Not Recommended
+BMW Z4,269.73,13.1,4,Luxury,Petrol,Manual,New,Sports,Grey,Not Recommended
+Ferrari Roma,96.91,11.6,5,Luxury,Diesel,Automatic,New,Family,Red,Recommended
+BMW M4,178.41,11.5,4,Luxury,Petrol,Automatic,New,Family,Grey,Recommended
+Mercedes AMG GT,196.49,9.8,5,Luxury,Hybrid,Manual,Used,Family,Red,Recommended
+Lexus LC500h,147.45,12.3,5,Luxury,Diesel,Manual,Used,Sports,Red,Recommended
+Rolls-Royce Phantom,64.78,6.3,5,Luxury,Diesel,Automatic,New,Family,White,Not Recommended
+Mercedes AMG GT,94.63,10.8,4,Luxury,Hybrid,Manual,Used,Luxury,Red,Not Recommended
+Porsche 911,86.91,6.5,4,Luxury,Petrol,Automatic,Used,Luxury,Grey,Recommended
+Audi A8L,277.3,12.4,2,Luxury,Hybrid,Manual,New,Family,Black,Not Recommended
+Range Rover Sport,238.6,10.7,5,Luxury,Diesel,Automatic,Used,Family,Black,Not Recommended
+BMW M4,203.63,10.8,4,Luxury,Petrol,Automatic,Used,Sports,Blue,Not Recommended
+Porsche Panamera,199.15,7.4,5,Luxury,Petrol,Automatic,Used,Family,White,Not Recommended
+Rolls-Royce Ghost,147.9,11.2,2,Luxury,Diesel,Automatic,Used,Luxury,Blue,Not Recommended
+BMW M5,50.08,7.2,2,Luxury,Petrol,Automatic,Used,Family,Black,Not Recommended
+Lexus LC500h,223.63,12.0,4,Luxury,Diesel,Manual,New,Luxury,Blue,Recommended
+Audi RS5,195.0,12.4,5,Luxury,Hybrid,Manual,Used,Family,Blue,Not Recommended
+Jaguar F-Type,95.42,10.6,2,Luxury,Hybrid,Automatic,New,Family,Black,Recommended
+Bentley Continental GT,211.8,12.2,4,Luxury,Petrol,Automatic,New,Luxury,White,Recommended
+Audi A8L,104.7,13.6,4,Luxury,Diesel,Automatic,New,Sports,Grey,Recommended
+Audi RS7,171.48,6.5,5,Luxury,Diesel,Manual,New,Sports,Grey,Not Recommended
+Audi A8L,222.01,11.0,2,Luxury,Diesel,Manual,New,Luxury,Grey,Not Recommended
+Lexus LC500h,220.42,13.4,5,Luxury,Diesel,Automatic,Used,Family,White,Recommended
+Land Rover Range Rover,237.99,9.5,5,Luxury,Diesel,Manual,Used,Luxury,Black,Recommended
+Lexus LC500h,230.29,9.1,2,Luxury,Diesel,Manual,Used,Luxury,Red,Recommended
+Bentley Continental GT,53.01,11.4,2,Luxury,Petrol,Manual,Used,Sports,White,Recommended
+Rolls-Royce Phantom,138.4,5.6,5,Luxury,Petrol,Automatic,Used,Sports,Red,Recommended
+Lamborghini Huracan,100.23,7.1,5,Luxury,Diesel,Automatic,New,Sports,Black,Recommended
+Rolls-Royce Phantom,79.03,12.0,4,Luxury,Petrol,Manual,Used,Luxury,Black,Not Recommended
+Lexus LC500h,173.52,7.2,5,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+Porsche 911,154.71,7.5,5,Luxury,Diesel,Automatic,Used,Family,Black,Recommended
+Audi RS5,290.12,5.5,2,Luxury,Hybrid,Automatic,Used,Family,White,Not Recommended
+Jaguar XF,87.53,13.6,4,Luxury,Hybrid,Manual,New,Family,White,Recommended
+Aston Martin Vantage,80.89,11.7,2,Luxury,Hybrid,Automatic,Used,Family,Red,Not Recommended
+Audi A8L,114.42,8.0,2,Luxury,Hybrid,Manual,Used,Luxury,Grey,Recommended
+Ferrari Roma,91.88,6.5,4,Luxury,Petrol,Manual,New,Luxury,White,Recommended
+Ferrari Roma,154.53,13.2,4,Luxury,Hybrid,Manual,New,Sports,Black,Not Recommended
+Porsche 911,213.14,12.8,5,Luxury,Diesel,Automatic,New,Sports,Red,Recommended
+Porsche 911,225.51,15.0,5,Luxury,Hybrid,Manual,New,Sports,Red,Recommended
+Mercedes AMG GT,64.84,12.9,2,Luxury,Hybrid,Automatic,New,Sports,Black,Not Recommended
+Audi RS7,263.8,13.6,4,Luxury,Diesel,Manual,Used,Family,White,Recommended
+Mercedes AMG GT,233.25,12.0,2,Luxury,Hybrid,Automatic,New,Family,Blue,Not Recommended
+BMW M5,258.94,13.1,2,Luxury,Hybrid,Automatic,Used,Luxury,Grey,Not Recommended
+BMW M4,81.36,10.6,4,Luxury,Diesel,Automatic,Used,Sports,Grey,Recommended
+Jaguar F-Type,196.65,8.9,2,Luxury,Diesel,Manual,Used,Sports,Black,Not Recommended
+Aston Martin Vantage,140.22,9.7,2,Luxury,Petrol,Automatic,New,Family,White,Recommended
+Audi RS5,120.36,14.2,4,Luxury,Diesel,Manual,New,Family,Grey,Not Recommended
+Porsche 911,269.63,5.6,4,Luxury,Petrol,Manual,Used,Family,Blue,Recommended
+Land Rover Range Rover,244.71,5.7,2,Luxury,Diesel,Manual,Used,Luxury,Blue,Not Recommended
+Ferrari Roma,263.22,10.5,5,Luxury,Petrol,Manual,Used,Luxury,Grey,Recommended
+Rolls-Royce Phantom,249.82,12.0,4,Luxury,Diesel,Automatic,Used,Sports,Blue,Not Recommended
+Audi A8L,90.22,10.8,2,Luxury,Hybrid,Manual,New,Luxury,Black,Recommended
+BMW M4,107.14,10.6,2,Luxury,Petrol,Automatic,New,Family,Blue,Not Recommended
+Jaguar F-Type,260.5,5.4,5,Luxury,Diesel,Automatic,New,Family,Grey,Recommended
+BMW M5,202.84,5.8,5,Luxury,Diesel,Manual,Used,Family,Blue,Recommended
+Audi A8L,82.2,7.9,2,Luxury,Diesel,Automatic,Used,Sports,Black,Not Recommended
+Lamborghini Huracan,295.68,12.3,5,Luxury,Diesel,Automatic,Used,Sports,Grey,Not Recommended
+Rolls-Royce Phantom,251.06,9.3,2,Luxury,Hybrid,Automatic,New,Luxury,Red,Recommended
+Land Rover Range Rover,131.64,14.5,5,Luxury,Petrol,Automatic,Used,Family,Blue,Not Recommended
+Audi RS7,199.93,12.6,4,Luxury,Diesel,Automatic,Used,Sports,Black,Not Recommended
+Jaguar F-Type,185.29,5.7,2,Luxury,Hybrid,Automatic,New,Sports,White,Not Recommended
+Porsche Panamera,253.82,10.7,5,Luxury,Petrol,Manual,New,Luxury,Grey,Recommended
+Land Rover Range Rover,224.56,7.9,5,Luxury,Hybrid,Automatic,New,Sports,Grey,Recommended
+Range Rover Sport,99.75,14.2,5,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+BMW M4,283.69,14.3,5,Luxury,Petrol,Automatic,New,Luxury,Black,Recommended
+Mercedes S-Class,139.99,9.5,2,Luxury,Diesel,Manual,Used,Family,Black,Not Recommended
+Jaguar XF,243.76,9.4,2,Luxury,Hybrid,Automatic,Used,Sports,Red,Recommended
+Lexus LC500h,220.94,7.7,4,Luxury,Petrol,Manual,Used,Luxury,Black,Recommended
+Rolls-Royce Ghost,105.32,7.5,4,Luxury,Hybrid,Manual,Used,Sports,Red,Not Recommended
+Range Rover Sport,87.86,9.2,5,Luxury,Diesel,Manual,New,Luxury,Red,Not Recommended
+Audi RS7,99.53,13.6,2,Luxury,Diesel,Automatic,Used,Family,Blue,Recommended
+Bentley Continental GT,298.29,5.4,4,Luxury,Diesel,Automatic,Used,Sports,Red,Recommended
+Mercedes AMG GT,152.64,14.7,4,Luxury,Hybrid,Manual,Used,Luxury,White,Not Recommended
+Audi A8L,109.28,9.3,5,Luxury,Diesel,Automatic,New,Luxury,Black,Not Recommended
+Rolls-Royce Ghost,88.18,6.6,4,Luxury,Hybrid,Automatic,New,Family,Grey,Recommended
+Range Rover Sport,78.37,6.0,2,Luxury,Hybrid,Manual,New,Family,Blue,Not Recommended
+Jaguar XF,215.75,10.4,2,Luxury,Hybrid,Manual,Used,Sports,Blue,Not Recommended
+Ferrari Roma,60.83,13.1,5,Luxury,Hybrid,Automatic,New,Family,White,Recommended
+BMW Z4,180.25,12.8,4,Luxury,Petrol,Manual,New,Luxury,Red,Recommended
+BMW M4,292.8,8.0,5,Luxury,Hybrid,Automatic,Used,Family,Black,Recommended
+Ferrari Roma,297.42,13.3,5,Luxury,Diesel,Manual,Used,Family,Red,Not Recommended
+Porsche 911,124.89,9.5,2,Luxury,Petrol,Manual,New,Family,Red,Recommended
+Jaguar F-Type,113.64,7.9,5,Luxury,Diesel,Manual,New,Family,White,Recommended
+Lamborghini Huracan,240.96,12.2,4,Luxury,Petrol,Automatic,Used,Luxury,Black,Not Recommended
+Audi RS7,98.01,5.3,2,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+Range Rover Sport,114.26,7.2,5,Luxury,Hybrid,Automatic,New,Luxury,Red,Recommended
+Rolls-Royce Phantom,182.88,7.0,4,Luxury,Diesel,Manual,Used,Luxury,Blue,Not Recommended
+Porsche 911,150.61,10.6,5,Luxury,Diesel,Manual,Used,Sports,Red,Not Recommended
+Bentley Continental GT,294.25,13.7,4,Luxury,Diesel,Manual,Used,Sports,Grey,Not Recommended
+Lexus LC500h,55.81,6.2,4,Luxury,Diesel,Manual,New,Family,Grey,Recommended
+Mercedes AMG GT,149.79,10.4,5,Luxury,Petrol,Manual,Used,Family,White,Recommended
+BMW M5,53.51,7.7,5,Luxury,Petrol,Automatic,New,Sports,Red,Recommended
+Range Rover Sport,287.59,7.2,5,Luxury,Hybrid,Automatic,New,Family,Black,Not Recommended
+Bentley Continental GT,144.01,12.5,2,Luxury,Petrol,Automatic,Used,Sports,Black,Not Recommended
+Bentley Continental GT,280.81,8.6,5,Luxury,Hybrid,Manual,New,Sports,Grey,Not Recommended
+Aston Martin Vantage,91.3,5.8,2,Luxury,Hybrid,Automatic,New,Luxury,Black,Recommended
+Land Rover Range Rover,172.72,8.2,2,Luxury,Diesel,Automatic,New,Sports,Grey,Recommended
+Range Rover Sport,133.54,12.1,4,Luxury,Hybrid,Manual,New,Sports,White,Recommended
+BMW M4,176.09,13.8,5,Luxury,Petrol,Manual,New,Luxury,Black,Not Recommended
+Mercedes AMG GT,185.03,13.1,4,Luxury,Diesel,Automatic,New,Sports,Black,Not Recommended
+Audi RS7,130.24,10.8,4,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+Mercedes S-Class,183.92,7.3,4,Luxury,Petrol,Automatic,New,Luxury,Black,Recommended
+Ferrari Roma,232.57,9.0,4,Luxury,Hybrid,Manual,Used,Luxury,Red,Not Recommended
+BMW M4,122.06,9.6,5,Luxury,Hybrid,Manual,New,Family,White,Not Recommended
+BMW M5,233.69,9.7,4,Luxury,Petrol,Manual,Used,Luxury,White,Not Recommended
+Porsche 911,88.33,14.0,4,Luxury,Diesel,Automatic,Used,Sports,White,Not Recommended
+BMW Z4,36.06,9.5,4,Luxury,Diesel,Automatic,Used,Family,Blue,Recommended
+Lamborghini Huracan,261.78,13.8,5,Luxury,Hybrid,Automatic,New,Sports,White,Recommended
+Land Rover Range Rover,189.0,12.8,4,Luxury,Petrol,Automatic,Used,Sports,Blue,Not Recommended
+Porsche Panamera,271.48,10.7,4,Luxury,Petrol,Automatic,Used,Luxury,Grey,Not Recommended
+Rolls-Royce Ghost,208.34,9.3,4,Luxury,Diesel,Automatic,Used,Luxury,Blue,Recommended
+Audi A8L,88.07,12.4,4,Luxury,Diesel,Manual,Used,Sports,Grey,Not Recommended
+Range Rover Sport,69.72,7.4,4,Luxury,Diesel,Manual,New,Sports,White,Recommended
+Audi RS7,211.04,10.7,4,Luxury,Hybrid,Manual,Used,Luxury,Grey,Not Recommended
+BMW M5,289.93,6.1,2,Luxury,Diesel,Automatic,Used,Luxury,Red,Recommended
+Rolls-Royce Ghost,50.25,14.5,5,Luxury,Petrol,Automatic,Used,Family,White,Not Recommended
+BMW M4,156.05,5.1,5,Luxury,Petrol,Automatic,Used,Sports,Grey,Not Recommended
+Ferrari Roma,67.23,6.0,2,Luxury,Diesel,Automatic,New,Luxury,Grey,Not Recommended
+Audi RS5,251.38,14.6,5,Luxury,Hybrid,Automatic,Used,Family,Grey,Recommended
+Mercedes AMG GT,129.71,13.7,2,Luxury,Petrol,Automatic,Used,Family,White,Recommended
+Rolls-Royce Phantom,155.78,10.8,5,Luxury,Hybrid,Manual,New,Sports,Black,Recommended
+Jaguar F-Type,168.37,11.1,4,Luxury,Petrol,Manual,Used,Luxury,Blue,Recommended
+Mercedes AMG GT,132.03,8.9,2,Luxury,Petrol,Automatic,Used,Family,Blue,Recommended
+Bentley Continental GT,107.08,9.9,4,Luxury,Diesel,Automatic,Used,Family,White,Not Recommended
+Lamborghini Huracan,262.87,10.1,2,Luxury,Hybrid,Automatic,Used,Luxury,Black,Not Recommended
+Mercedes S-Class,193.65,10.9,2,Luxury,Diesel,Automatic,Used,Sports,Blue,Recommended
+Ferrari Roma,266.72,13.1,2,Luxury,Diesel,Automatic,New,Family,Red,Recommended
+Land Rover Range Rover,153.43,7.9,4,Luxury,Hybrid,Manual,Used,Sports,White,Recommended
+Lexus LC500h,86.46,11.0,4,Luxury,Hybrid,Manual,New,Sports,Blue,Not Recommended
+Jaguar F-Type,177.29,14.6,2,Luxury,Hybrid,Automatic,Used,Family,Black,Not Recommended
+Audi A8L,290.44,6.3,4,Luxury,Hybrid,Manual,New,Sports,Blue,Not Recommended
+Bentley Continental GT,101.02,6.0,4,Luxury,Diesel,Manual,Used,Luxury,Black,Not Recommended
+Lexus LC500h,68.05,12.5,2,Luxury,Petrol,Automatic,Used,Luxury,Blue,Recommended
+Porsche Cayenne,276.49,7.3,5,Luxury,Petrol,Manual,New,Family,Grey,Not Recommended
+Porsche 911,173.26,5.9,2,Luxury,Diesel,Manual,New,Sports,Red,Not Recommended
+Audi RS5,263.32,7.9,5,Luxury,Diesel,Automatic,New,Luxury,Grey,Recommended
+Jaguar F-Type,136.52,7.7,2,Luxury,Petrol,Manual,New,Sports,Red,Not Recommended
+Jaguar XF,50.24,9.9,4,Luxury,Petrol,Automatic,Used,Family,Blue,Recommended
+Audi RS7,159.92,13.9,5,Luxury,Diesel,Manual,Used,Sports,Blue,Recommended
+Bentley Continental GT,114.14,5.0,2,Luxury,Petrol,Manual,Used,Luxury,Red,Recommended
+Jaguar XF,229.74,7.2,2,Luxury,Petrol,Manual,New,Family,White,Recommended
+BMW Z4,226.51,6.0,5,Luxury,Petrol,Manual,Used,Family,Blue,Not Recommended
+Bentley Continental GT,240.82,6.9,5,Luxury,Diesel,Manual,New,Family,Black,Recommended
+Porsche Panamera,32.62,7.5,5,Luxury,Diesel,Automatic,Used,Luxury,Black,Recommended
+Rolls-Royce Phantom,98.05,8.8,4,Luxury,Petrol,Manual,Used,Sports,Red,Recommended
+Lamborghini Huracan,204.7,7.3,5,Luxury,Hybrid,Automatic,Used,Sports,White,Recommended
+Aston Martin Vantage,255.3,9.4,5,Luxury,Diesel,Automatic,New,Family,Black,Not Recommended
+Mercedes AMG GT,230.2,9.2,5,Luxury,Petrol,Manual,Used,Family,Red,Not Recommended
+Porsche Panamera,147.3,14.5,2,Luxury,Petrol,Automatic,Used,Family,Blue,Recommended
+Rolls-Royce Phantom,187.7,5.8,4,Luxury,Petrol,Manual,Used,Family,Blue,Recommended
+Audi RS7,277.17,5.5,4,Luxury,Diesel,Automatic,Used,Luxury,Grey,Recommended
+Audi RS5,114.36,14.8,5,Luxury,Diesel,Automatic,Used,Luxury,Blue,Not Recommended
+Ferrari Roma,98.07,6.0,4,Luxury,Hybrid,Manual,Used,Luxury,Black,Recommended
+Audi RS7,241.74,9.0,2,Luxury,Petrol,Automatic,Used,Luxury,Grey,Recommended
+Aston Martin Vantage,78.88,5.1,2,Luxury,Hybrid,Automatic,Used,Sports,White,Not Recommended
+Audi RS5,195.53,7.8,4,Luxury,Diesel,Manual,New,Family,Blue,Not Recommended
+Porsche Cayenne,157.68,5.5,5,Luxury,Petrol,Manual,Used,Sports,White,Recommended
+Ferrari Roma,228.34,13.8,5,Luxury,Petrol,Automatic,Used,Family,White,Recommended
+Range Rover Sport,45.16,7.9,4,Luxury,Diesel,Automatic,New,Luxury,Black,Not Recommended
+Rolls-Royce Phantom,217.42,12.7,2,Luxury,Petrol,Manual,New,Sports,Red,Recommended
+Rolls-Royce Phantom,102.02,7.3,4,Luxury,Petrol,Manual,New,Sports,Black,Recommended
+Jaguar F-Type,197.05,6.2,4,Luxury,Diesel,Manual,Used,Luxury,White,Recommended
+Land Rover Range Rover,260.43,6.9,5,Luxury,Hybrid,Automatic,New,Sports,Red,Recommended
+BMW M4,50.46,6.7,2,Luxury,Hybrid,Manual,New,Luxury,Black,Recommended
+Ferrari Roma,193.37,11.4,2,Luxury,Petrol,Manual,Used,Sports,Blue,Not Recommended
+Audi RS7,40.49,13.0,2,Luxury,Hybrid,Automatic,Used,Sports,Red,Recommended
+Audi RS7,275.46,14.9,4,Luxury,Petrol,Manual,New,Family,Red,Not Recommended
+Aston Martin Vantage,65.81,11.1,5,Luxury,Petrol,Automatic,Used,Family,Blue,Not Recommended
+Lamborghini Huracan,100.22,7.1,5,Luxury,Hybrid,Automatic,Used,Luxury,Black,Not Recommended
+Porsche Panamera,150.5,9.8,5,Luxury,Petrol,Manual,Used,Family,Black,Recommended
+Porsche Panamera,201.08,11.1,4,Luxury,Hybrid,Manual,New,Family,Grey,Recommended
+Bentley Continental GT,70.64,8.4,5,Luxury,Hybrid,Manual,Used,Luxury,Grey,Not Recommended
+BMW M4,90.23,11.2,4,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+Ferrari Roma,183.99,12.6,4,Luxury,Petrol,Manual,Used,Luxury,Grey,Not Recommended
+Porsche Panamera,239.03,9.5,4,Luxury,Petrol,Manual,Used,Sports,Blue,Recommended
+Ferrari Roma,41.16,5.1,2,Luxury,Petrol,Automatic,Used,Family,Red,Recommended
+Lamborghini Huracan,168.7,5.4,5,Luxury,Petrol,Manual,New,Luxury,Red,Not Recommended
+Range Rover Sport,43.64,11.3,5,Luxury,Diesel,Manual,Used,Luxury,Grey,Recommended
+Porsche Cayenne,252.74,12.4,5,Luxury,Diesel,Automatic,Used,Family,Grey,Not Recommended
+BMW M4,189.78,11.3,5,Luxury,Hybrid,Automatic,New,Luxury,Black,Not Recommended
+Lexus LC500h,143.6,14.3,4,Luxury,Hybrid,Automatic,New,Family,Red,Not Recommended
+BMW M5,118.7,11.1,4,Luxury,Diesel,Manual,Used,Sports,Red,Not Recommended
+Audi RS5,297.91,13.4,5,Luxury,Petrol,Manual,Used,Sports,White,Not Recommended
+Audi RS5,125.45,7.0,2,Luxury,Petrol,Automatic,New,Sports,Red,Recommended
+Audi RS7,30.83,13.5,5,Luxury,Petrol,Automatic,Used,Family,Red,Not Recommended
+Land Rover Range Rover,292.72,9.9,5,Luxury,Diesel,Automatic,Used,Luxury,Red,Recommended
+Rolls-Royce Ghost,156.97,11.9,5,Luxury,Diesel,Manual,Used,Sports,Grey,Not Recommended
+Lamborghini Huracan,113.96,6.4,5,Luxury,Diesel,Automatic,New,Sports,Blue,Not Recommended
+Rolls-Royce Phantom,191.86,11.3,2,Luxury,Hybrid,Manual,New,Luxury,Blue,Recommended
+Rolls-Royce Ghost,53.8,9.6,5,Luxury,Hybrid,Manual,Used,Family,White,Recommended
+BMW Z4,252.3,7.0,5,Luxury,Diesel,Manual,New,Sports,White,Recommended
+BMW M5,107.73,5.2,4,Luxury,Hybrid,Automatic,Used,Family,Red,Not Recommended
+Audi RS5,77.38,14.0,4,Luxury,Petrol,Manual,New,Family,Red,Not Recommended
+Jaguar F-Type,269.58,7.2,4,Luxury,Diesel,Automatic,New,Luxury,Grey,Recommended
+Audi A8L,151.33,9.9,4,Luxury,Hybrid,Manual,Used,Family,Blue,Not Recommended
+BMW M5,207.66,12.3,2,Luxury,Hybrid,Automatic,Used,Luxury,Black,Not Recommended
+Bentley Continental GT,213.56,5.9,5,Luxury,Diesel,Automatic,Used,Luxury,Blue,Recommended
+Lexus LC500h,109.41,12.8,4,Luxury,Hybrid,Manual,New,Luxury,Red,Not Recommended
+BMW Z4,299.81,6.5,5,Luxury,Diesel,Manual,New,Luxury,Black,Recommended
+BMW M5,47.68,8.6,5,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+Land Rover Range Rover,290.15,8.0,4,Luxury,Petrol,Manual,New,Luxury,Grey,Not Recommended
+Audi RS7,172.83,6.8,2,Luxury,Diesel,Manual,New,Family,White,Not Recommended
+Audi RS5,140.75,9.5,4,Luxury,Petrol,Automatic,Used,Sports,Grey,Not Recommended
+Bentley Continental GT,198.14,14.0,4,Luxury,Diesel,Manual,Used,Luxury,Red,Recommended
+BMW M5,115.92,9.6,4,Luxury,Hybrid,Manual,New,Luxury,White,Recommended
+BMW M5,122.14,7.0,4,Luxury,Hybrid,Manual,Used,Sports,Blue,Recommended
+BMW M5,179.54,9.9,4,Luxury,Petrol,Automatic,New,Luxury,Red,Recommended
+Jaguar XF,150.32,14.8,2,Luxury,Hybrid,Manual,New,Sports,Grey,Recommended
+Lexus LC500h,70.16,13.7,2,Luxury,Hybrid,Manual,New,Luxury,Red,Not Recommended
+Audi RS5,207.17,8.6,5,Luxury,Petrol,Manual,New,Sports,Blue,Recommended
+Mercedes AMG GT,286.52,6.1,4,Luxury,Diesel,Automatic,New,Luxury,Blue,Not Recommended
+Lexus LC500h,126.3,7.2,4,Luxury,Diesel,Automatic,Used,Family,Red,Not Recommended
+Ferrari Roma,98.77,8.2,5,Luxury,Petrol,Manual,New,Luxury,Blue,Recommended
+Rolls-Royce Phantom,190.78,8.5,4,Luxury,Diesel,Automatic,New,Sports,Red,Recommended
+Jaguar F-Type,78.45,7.8,4,Luxury,Petrol,Automatic,Used,Luxury,Black,Not Recommended
+Audi RS5,272.53,12.8,2,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Lamborghini Huracan,222.43,9.9,4,Luxury,Diesel,Manual,New,Luxury,Red,Not Recommended
+BMW Z4,187.1,12.4,5,Luxury,Diesel,Manual,Used,Luxury,Blue,Recommended
+Jaguar XF,209.96,11.0,4,Luxury,Hybrid,Automatic,New,Family,Grey,Not Recommended
+Bentley Continental GT,144.15,9.3,5,Luxury,Hybrid,Automatic,Used,Luxury,Blue,Not Recommended
+BMW M5,275.78,7.1,4,Luxury,Diesel,Manual,New,Luxury,Blue,Not Recommended
+Mercedes S-Class,97.36,11.7,5,Luxury,Hybrid,Automatic,Used,Sports,Grey,Recommended
+Land Rover Range Rover,57.57,14.8,5,Luxury,Diesel,Manual,Used,Family,Grey,Not Recommended
+Land Rover Range Rover,235.47,13.0,2,Luxury,Petrol,Automatic,New,Sports,Red,Not Recommended
+BMW Z4,296.33,5.7,4,Luxury,Diesel,Automatic,New,Sports,White,Recommended
+Jaguar F-Type,119.63,7.7,2,Luxury,Hybrid,Automatic,New,Sports,Blue,Recommended
+Porsche 911,120.24,6.4,2,Luxury,Petrol,Automatic,New,Sports,Red,Not Recommended
+Audi A8L,165.67,9.6,5,Luxury,Diesel,Automatic,New,Family,Blue,Recommended
+Porsche 911,171.48,6.9,2,Luxury,Diesel,Manual,Used,Family,Blue,Recommended
+Porsche Cayenne,151.2,7.0,4,Luxury,Diesel,Manual,Used,Family,Red,Recommended
+BMW M4,256.1,13.0,2,Luxury,Diesel,Automatic,New,Family,Red,Not Recommended
+Jaguar XF,170.31,10.1,4,Luxury,Diesel,Manual,Used,Sports,Blue,Not Recommended
+BMW M5,153.5,9.1,2,Luxury,Diesel,Manual,Used,Luxury,Blue,Recommended
+Rolls-Royce Phantom,173.57,10.2,5,Luxury,Hybrid,Manual,New,Luxury,Black,Not Recommended
+Porsche Cayenne,206.04,7.9,5,Luxury,Hybrid,Automatic,Used,Luxury,Grey,Recommended
+Porsche 911,168.06,7.0,5,Luxury,Diesel,Manual,Used,Luxury,Red,Not Recommended
+Range Rover Sport,44.55,14.0,2,Luxury,Diesel,Manual,Used,Luxury,Grey,Not Recommended
+Rolls-Royce Phantom,143.96,9.3,4,Luxury,Hybrid,Automatic,Used,Family,White,Not Recommended
+Rolls-Royce Ghost,146.37,8.6,4,Luxury,Petrol,Manual,Used,Luxury,Red,Recommended
+BMW Z4,61.55,12.8,4,Luxury,Petrol,Manual,Used,Family,Blue,Not Recommended
+Lamborghini Huracan,114.83,6.5,4,Luxury,Petrol,Automatic,Used,Luxury,Red,Recommended
+Porsche Cayenne,243.67,9.2,4,Luxury,Hybrid,Automatic,Used,Sports,Red,Not Recommended
+Range Rover Sport,139.25,14.5,2,Luxury,Hybrid,Manual,New,Luxury,Red,Not Recommended
+Lamborghini Huracan,58.86,8.3,2,Luxury,Petrol,Manual,Used,Luxury,Red,Not Recommended
+Jaguar XF,97.92,9.2,5,Luxury,Diesel,Automatic,New,Sports,Red,Recommended
+BMW M4,249.39,7.6,2,Luxury,Hybrid,Automatic,New,Sports,Red,Not Recommended
+Porsche Panamera,150.99,5.9,5,Luxury,Petrol,Automatic,Used,Luxury,Grey,Recommended
+Audi RS7,103.32,13.3,2,Luxury,Petrol,Manual,New,Luxury,Grey,Recommended
+BMW M4,104.27,6.6,4,Luxury,Hybrid,Manual,Used,Luxury,Black,Not Recommended
+Lexus LC500h,193.35,9.8,2,Luxury,Petrol,Manual,Used,Family,Black,Recommended
+Bentley Continental GT,138.62,13.9,5,Luxury,Hybrid,Manual,Used,Sports,Red,Recommended
+Lexus LC500h,290.59,6.8,4,Luxury,Diesel,Automatic,New,Luxury,White,Recommended
+Jaguar F-Type,194.39,12.8,2,Luxury,Hybrid,Manual,New,Family,Grey,Recommended
+Jaguar XF,32.63,10.5,2,Luxury,Petrol,Manual,Used,Luxury,Blue,Recommended
+Mercedes S-Class,227.28,14.2,2,Luxury,Hybrid,Manual,Used,Sports,Blue,Not Recommended
+Audi A8L,92.79,7.7,2,Luxury,Petrol,Manual,Used,Sports,Red,Recommended
+Porsche Panamera,31.05,9.1,4,Luxury,Diesel,Automatic,New,Sports,White,Recommended
+Lamborghini Huracan,47.55,11.3,4,Luxury,Hybrid,Manual,Used,Luxury,Black,Recommended
+Land Rover Range Rover,92.35,9.1,4,Luxury,Hybrid,Manual,Used,Luxury,Grey,Recommended
+Mercedes S-Class,176.65,13.1,2,Luxury,Petrol,Automatic,New,Luxury,Grey,Recommended
+Audi RS5,290.4,8.5,4,Luxury,Diesel,Automatic,Used,Family,Red,Recommended
+Porsche 911,189.28,14.4,2,Luxury,Petrol,Automatic,Used,Sports,Black,Not Recommended
+Ferrari Roma,60.8,7.9,5,Luxury,Petrol,Manual,Used,Sports,Blue,Recommended
+Mercedes AMG GT,50.51,6.9,2,Luxury,Petrol,Manual,Used,Luxury,Red,Recommended
+Land Rover Range Rover,129.4,13.3,4,Luxury,Diesel,Manual,Used,Family,Red,Recommended
+Audi RS7,69.99,14.8,5,Luxury,Petrol,Manual,New,Family,White,Not Recommended
+Porsche Cayenne,117.72,12.8,4,Luxury,Petrol,Automatic,Used,Family,Blue,Recommended
+Land Rover Range Rover,63.37,8.0,5,Luxury,Petrol,Manual,Used,Family,Red,Recommended
+Mercedes S-Class,165.13,10.2,5,Luxury,Petrol,Manual,New,Luxury,Red,Not Recommended
+Audi RS5,142.62,10.5,2,Luxury,Diesel,Automatic,New,Sports,White,Recommended
+BMW Z4,92.08,13.0,5,Luxury,Hybrid,Automatic,New,Sports,Black,Not Recommended
+Jaguar XF,137.22,8.9,2,Luxury,Diesel,Manual,Used,Sports,Blue,Not Recommended
+Lexus LC500h,258.34,7.8,4,Luxury,Petrol,Manual,Used,Luxury,Black,Recommended
+Lexus LC500h,105.01,8.0,4,Luxury,Hybrid,Automatic,New,Family,Black,Not Recommended
+Porsche 911,244.98,13.4,5,Luxury,Diesel,Manual,New,Luxury,White,Recommended
+Porsche Panamera,89.13,8.2,4,Luxury,Hybrid,Manual,Used,Sports,Grey,Not Recommended
+Jaguar F-Type,54.93,5.4,5,Luxury,Hybrid,Manual,New,Sports,Blue,Not Recommended
+Lexus LC500h,172.36,12.5,2,Luxury,Hybrid,Manual,Used,Sports,Black,Not Recommended
+BMW M5,115.26,10.5,4,Luxury,Petrol,Automatic,New,Sports,Black,Recommended
+Land Rover Range Rover,165.14,5.7,5,Luxury,Diesel,Manual,New,Sports,Grey,Recommended
+Jaguar F-Type,298.35,9.1,5,Luxury,Hybrid,Automatic,New,Sports,Blue,Recommended
+Jaguar F-Type,238.97,7.2,5,Luxury,Hybrid,Manual,New,Family,Grey,Not Recommended
+Ferrari Roma,112.4,12.8,5,Luxury,Petrol,Automatic,New,Family,Black,Not Recommended
+Audi RS7,138.02,12.4,2,Luxury,Petrol,Automatic,Used,Luxury,White,Not Recommended
+Lamborghini Huracan,244.06,6.3,5,Luxury,Petrol,Automatic,Used,Sports,Red,Recommended
+Audi A8L,264.76,11.3,2,Luxury,Diesel,Manual,Used,Sports,Black,Not Recommended
+Rolls-Royce Ghost,260.5,11.5,4,Luxury,Hybrid,Automatic,New,Family,Black,Not Recommended
+Audi A8L,279.0,8.9,2,Luxury,Petrol,Automatic,New,Family,Grey,Not Recommended
+Rolls-Royce Phantom,93.39,11.2,4,Luxury,Diesel,Automatic,New,Family,White,Recommended
+Rolls-Royce Ghost,134.37,7.0,5,Luxury,Petrol,Manual,New,Sports,Grey,Recommended
+Jaguar XF,133.82,8.5,2,Luxury,Hybrid,Manual,Used,Family,Red,Recommended
+Porsche Cayenne,239.06,8.7,5,Luxury,Petrol,Manual,New,Sports,Red,Recommended
+Lexus LC500h,124.52,12.5,5,Luxury,Petrol,Manual,New,Family,Blue,Recommended
+Rolls-Royce Ghost,49.48,14.2,2,Luxury,Diesel,Automatic,Used,Family,Black,Not Recommended
+Porsche Panamera,284.51,10.1,4,Luxury,Diesel,Manual,Used,Luxury,Grey,Not Recommended
+Jaguar F-Type,80.65,11.0,5,Luxury,Hybrid,Automatic,Used,Sports,Black,Not Recommended
+BMW M5,221.6,11.9,4,Luxury,Diesel,Automatic,New,Sports,Black,Not Recommended
+Mercedes S-Class,295.53,12.3,5,Luxury,Diesel,Automatic,Used,Luxury,Blue,Recommended
+Jaguar F-Type,35.74,8.1,5,Luxury,Petrol,Manual,New,Sports,Red,Not Recommended
+Audi A8L,226.51,9.2,5,Luxury,Diesel,Automatic,Used,Family,Grey,Not Recommended
+Land Rover Range Rover,129.23,8.2,2,Luxury,Diesel,Manual,New,Luxury,Black,Recommended
+Ferrari Roma,131.65,7.2,4,Luxury,Diesel,Automatic,Used,Luxury,White,Not Recommended
+Rolls-Royce Phantom,285.73,9.2,5,Luxury,Diesel,Manual,Used,Sports,Red,Recommended
+Lamborghini Huracan,159.44,10.7,5,Luxury,Hybrid,Automatic,Used,Luxury,Red,Not Recommended
+Aston Martin Vantage,236.78,9.6,4,Luxury,Hybrid,Automatic,New,Family,Blue,Recommended
+Lamborghini Huracan,196.11,14.8,5,Luxury,Diesel,Automatic,New,Family,Red,Recommended
+Land Rover Range Rover,91.01,5.3,5,Luxury,Hybrid,Automatic,New,Sports,Blue,Recommended
+Land Rover Range Rover,123.4,10.8,4,Luxury,Petrol,Automatic,New,Family,Red,Recommended
+Lexus LC500h,166.07,5.9,5,Luxury,Diesel,Automatic,Used,Luxury,Black,Not Recommended
+Bentley Continental GT,204.62,6.2,2,Luxury,Petrol,Automatic,Used,Luxury,Red,Recommended
+Jaguar F-Type,251.45,7.7,5,Luxury,Diesel,Automatic,New,Sports,Black,Recommended
+Range Rover Sport,210.88,7.1,5,Luxury,Diesel,Manual,Used,Luxury,Red,Recommended
+Audi RS7,217.78,6.0,5,Luxury,Diesel,Automatic,New,Family,Black,Recommended
+Audi A8L,56.02,6.7,2,Luxury,Diesel,Manual,New,Luxury,Grey,Not Recommended
+Audi A8L,154.51,5.2,2,Luxury,Diesel,Automatic,New,Luxury,Blue,Not Recommended
+Ferrari Roma,111.92,10.4,4,Luxury,Diesel,Manual,Used,Luxury,Black,Not Recommended
+Range Rover Sport,79.62,10.4,2,Luxury,Hybrid,Manual,Used,Family,Blue,Not Recommended
+Ferrari Roma,123.39,14.9,2,Luxury,Diesel,Manual,New,Luxury,Grey,Not Recommended
+Bentley Continental GT,171.07,13.1,5,Luxury,Hybrid,Automatic,Used,Sports,White,Recommended
+Porsche Cayenne,228.03,9.9,2,Luxury,Hybrid,Manual,Used,Luxury,White,Not Recommended
+Audi RS5,30.94,12.7,2,Luxury,Petrol,Automatic,New,Family,Black,Not Recommended
+Porsche Panamera,183.7,10.5,2,Luxury,Diesel,Manual,Used,Sports,Red,Not Recommended
+BMW M4,123.88,9.2,2,Luxury,Petrol,Manual,New,Family,Blue,Recommended
+BMW Z4,59.67,11.5,2,Luxury,Hybrid,Automatic,Used,Sports,White,Not Recommended
+BMW M4,176.82,11.1,4,Luxury,Hybrid,Manual,New,Luxury,Grey,Recommended
+Lexus LC500h,116.24,9.3,2,Luxury,Petrol,Manual,Used,Luxury,Grey,Not Recommended
+Porsche 911,273.25,11.0,5,Luxury,Petrol,Manual,New,Family,Grey,Not Recommended
+Ferrari Roma,162.22,9.7,4,Luxury,Diesel,Manual,New,Family,Grey,Not Recommended
+Rolls-Royce Ghost,91.0,9.4,2,Luxury,Hybrid,Automatic,Used,Sports,White,Recommended
+Ferrari Roma,248.96,10.5,4,Luxury,Petrol,Manual,Used,Sports,Black,Not Recommended
+Aston Martin Vantage,234.99,8.5,5,Luxury,Hybrid,Manual,Used,Luxury,Grey,Not Recommended
+Audi RS7,186.91,11.7,2,Luxury,Diesel,Manual,New,Sports,Black,Not Recommended
+BMW Z4,173.92,12.6,5,Luxury,Diesel,Automatic,New,Family,Blue,Recommended
+Jaguar XF,254.21,14.1,5,Luxury,Hybrid,Automatic,New,Sports,Grey,Not Recommended
+BMW M5,243.66,12.4,2,Luxury,Petrol,Automatic,New,Family,Blue,Not Recommended
+Porsche 911,203.87,6.0,2,Luxury,Hybrid,Automatic,Used,Family,Blue,Not Recommended
+Jaguar F-Type,196.95,11.2,4,Luxury,Diesel,Automatic,Used,Sports,Black,Not Recommended
+Mercedes AMG GT,47.46,6.9,4,Luxury,Hybrid,Automatic,New,Family,White,Recommended
+Bentley Continental GT,159.61,14.4,5,Luxury,Petrol,Automatic,Used,Sports,White,Not Recommended
+Ferrari Roma,119.43,11.8,2,Luxury,Diesel,Manual,Used,Family,Red,Recommended
+Mercedes AMG GT,248.21,6.1,5,Luxury,Hybrid,Manual,New,Sports,Black,Not Recommended
+Audi A8L,192.26,14.9,5,Luxury,Hybrid,Manual,New,Family,White,Not Recommended
+Audi A8L,140.14,5.9,2,Luxury,Hybrid,Automatic,Used,Sports,Blue,Recommended
+Porsche 911,88.33,5.2,4,Luxury,Hybrid,Manual,Used,Luxury,Red,Recommended
+Porsche 911,186.2,8.2,4,Luxury,Petrol,Automatic,New,Luxury,Blue,Recommended
+Porsche Cayenne,36.81,6.2,4,Luxury,Diesel,Manual,Used,Sports,Blue,Recommended
+Porsche 911,270.36,13.5,5,Luxury,Diesel,Automatic,Used,Family,Red,Not Recommended
+BMW M5,250.91,7.0,2,Luxury,Diesel,Automatic,Used,Family,Blue,Recommended
+Porsche Cayenne,212.61,6.2,2,Luxury,Petrol,Manual,New,Luxury,Blue,Recommended
+Jaguar XF,100.77,6.8,5,Luxury,Hybrid,Manual,New,Family,Blue,Not Recommended
+Ferrari Roma,230.2,11.1,2,Luxury,Diesel,Manual,New,Sports,White,Not Recommended
+Rolls-Royce Phantom,268.78,13.8,2,Luxury,Diesel,Manual,Used,Family,Blue,Not Recommended
+Jaguar F-Type,133.25,5.7,2,Luxury,Diesel,Automatic,Used,Luxury,Red,Recommended
+Lexus LC500h,38.81,9.5,2,Luxury,Diesel,Automatic,New,Luxury,Black,Recommended
+BMW M5,98.39,5.9,5,Luxury,Hybrid,Automatic,Used,Sports,Blue,Not Recommended
+BMW M5,175.93,10.1,4,Luxury,Diesel,Automatic,New,Luxury,Blue,Not Recommended
+Rolls-Royce Ghost,151.45,12.9,2,Luxury,Diesel,Automatic,New,Sports,Blue,Not Recommended
+Porsche 911,87.37,8.8,2,Luxury,Hybrid,Manual,Used,Luxury,Blue,Not Recommended
+Porsche 911,163.91,14.5,2,Luxury,Hybrid,Manual,New,Sports,Blue,Recommended
+Lamborghini Huracan,265.52,12.1,4,Luxury,Diesel,Automatic,New,Family,Grey,Not Recommended
+Land Rover Range Rover,291.72,12.3,2,Luxury,Diesel,Automatic,Used,Sports,Blue,Not Recommended
+Porsche Panamera,148.65,13.6,4,Luxury,Petrol,Manual,Used,Sports,Black,Not Recommended
+Rolls-Royce Phantom,84.29,12.1,4,Luxury,Diesel,Manual,Used,Sports,White,Recommended
+Porsche Cayenne,252.91,13.8,5,Luxury,Diesel,Manual,New,Sports,Grey,Not Recommended
+Jaguar F-Type,74.17,13.0,2,Luxury,Petrol,Manual,New,Luxury,White,Not Recommended
+Porsche 911,41.21,14.3,2,Luxury,Hybrid,Automatic,New,Family,Grey,Not Recommended
+Bentley Continental GT,78.36,6.1,4,Luxury,Diesel,Automatic,Used,Family,Grey,Recommended
+Mercedes AMG GT,160.46,14.6,5,Luxury,Hybrid,Automatic,Used,Sports,Red,Recommended
+Bentley Continental GT,163.97,14.2,2,Luxury,Petrol,Manual,Used,Sports,Red,Recommended
+Bentley Continental GT,199.79,11.1,2,Luxury,Hybrid,Automatic,Used,Luxury,Black,Recommended
+Rolls-Royce Phantom,291.56,9.9,4,Luxury,Petrol,Automatic,New,Sports,White,Recommended
+BMW Z4,197.46,8.2,5,Luxury,Petrol,Automatic,Used,Luxury,Black,Not Recommended
+Rolls-Royce Ghost,298.47,6.0,2,Luxury,Petrol,Automatic,New,Sports,Blue,Recommended
+Lexus LC500h,46.93,10.8,4,Luxury,Hybrid,Manual,Used,Sports,Grey,Recommended
+Porsche Panamera,212.57,7.2,4,Luxury,Petrol,Automatic,Used,Sports,Grey,Not Recommended
+Lamborghini Huracan,240.28,9.9,5,Luxury,Diesel,Manual,New,Sports,White,Recommended
+Jaguar F-Type,103.82,14.7,2,Luxury,Diesel,Manual,Used,Sports,Grey,Recommended
+Lexus LC500h,227.13,11.8,5,Luxury,Hybrid,Manual,New,Sports,White,Not Recommended
+Lamborghini Huracan,64.46,10.0,4,Luxury,Diesel,Automatic,Used,Sports,White,Recommended
+Porsche Cayenne,204.25,13.6,4,Luxury,Petrol,Manual,Used,Sports,Blue,Not Recommended
+Jaguar F-Type,96.05,13.9,2,Luxury,Diesel,Manual,Used,Sports,Grey,Not Recommended
+Mercedes AMG GT,266.65,7.0,5,Luxury,Hybrid,Manual,Used,Family,Blue,Not Recommended
+Porsche Cayenne,86.88,14.5,2,Luxury,Diesel,Automatic,New,Luxury,Red,Recommended
+Ferrari Roma,189.65,5.4,2,Luxury,Hybrid,Automatic,Used,Luxury,Black,Recommended
+BMW M4,297.18,13.3,4,Luxury,Hybrid,Manual,New,Sports,White,Recommended
+Porsche Panamera,152.89,10.2,2,Luxury,Diesel,Automatic,New,Family,Blue,Recommended
+Land Rover Range Rover,257.23,14.8,4,Luxury,Diesel,Manual,Used,Family,White,Recommended
+Jaguar F-Type,37.93,12.9,4,Luxury,Petrol,Automatic,New,Luxury,Red,Not Recommended
+BMW M5,154.72,6.1,2,Luxury,Petrol,Manual,New,Luxury,Blue,Not Recommended
+Porsche 911,281.86,7.1,2,Luxury,Diesel,Automatic,New,Family,Grey,Recommended
+Jaguar XF,122.09,13.4,2,Luxury,Diesel,Automatic,New,Sports,Red,Not Recommended
+Porsche Cayenne,219.89,10.9,5,Luxury,Petrol,Automatic,Used,Family,Grey,Recommended
+Lexus LC500h,47.29,14.5,2,Luxury,Diesel,Automatic,Used,Luxury,Black,Recommended
+Aston Martin Vantage,273.74,11.0,4,Luxury,Petrol,Manual,New,Family,Black,Recommended
+BMW M5,56.82,8.3,2,Luxury,Hybrid,Manual,New,Family,Black,Not Recommended
+Rolls-Royce Ghost,205.58,11.7,4,Luxury,Petrol,Manual,New,Luxury,Red,Not Recommended
+Audi RS5,186.3,10.4,5,Luxury,Diesel,Manual,Used,Family,White,Not Recommended
+Land Rover Range Rover,103.55,10.0,2,Luxury,Hybrid,Manual,Used,Luxury,Blue,Not Recommended
+Aston Martin Vantage,143.62,9.9,5,Luxury,Petrol,Manual,Used,Sports,Black,Not Recommended
+Audi RS7,91.83,6.2,2,Luxury,Hybrid,Automatic,Used,Luxury,Blue,Recommended
+Jaguar XF,85.27,6.2,2,Luxury,Hybrid,Automatic,New,Family,Black,Recommended
+Ferrari Roma,228.81,5.9,4,Luxury,Petrol,Automatic,New,Sports,Grey,Recommended
+BMW M4,220.44,9.7,4,Luxury,Diesel,Automatic,Used,Sports,Black,Not Recommended
+Porsche 911,297.71,6.3,2,Luxury,Diesel,Manual,New,Family,Blue,Recommended
+Mercedes S-Class,93.4,7.7,2,Luxury,Petrol,Automatic,Used,Luxury,White,Not Recommended
+Bentley Continental GT,208.78,12.8,5,Luxury,Hybrid,Manual,Used,Luxury,Grey,Recommended
+Ferrari Roma,82.95,6.7,5,Luxury,Petrol,Manual,Used,Family,White,Recommended
+Ferrari Roma,232.19,11.6,2,Luxury,Hybrid,Automatic,New,Sports,White,Not Recommended
+Mercedes AMG GT,36.73,13.6,5,Luxury,Diesel,Automatic,New,Family,Red,Recommended
+Lexus LC500h,169.93,10.6,2,Luxury,Petrol,Automatic,New,Family,White,Not Recommended
+Porsche 911,134.12,11.7,4,Luxury,Petrol,Manual,Used,Luxury,Black,Recommended
+Audi RS5,111.79,14.6,4,Luxury,Diesel,Manual,New,Luxury,Black,Not Recommended
+Porsche 911,180.23,5.3,4,Luxury,Petrol,Manual,New,Family,Black,Recommended
+Porsche Cayenne,31.46,7.2,5,Luxury,Hybrid,Manual,New,Sports,Blue,Not Recommended
+Jaguar XF,110.75,11.5,2,Luxury,Hybrid,Automatic,Used,Luxury,Black,Recommended
+BMW Z4,139.45,8.6,4,Luxury,Hybrid,Manual,New,Luxury,Black,Recommended
+Range Rover Sport,68.53,14.4,2,Luxury,Diesel,Manual,Used,Sports,Black,Recommended
+Jaguar F-Type,160.88,13.6,5,Luxury,Petrol,Automatic,New,Family,White,Not Recommended
+Lexus LC500h,173.25,5.3,2,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+Audi RS7,298.15,5.6,2,Luxury,Diesel,Manual,Used,Sports,White,Recommended
+BMW M5,224.93,14.9,2,Luxury,Diesel,Manual,New,Family,Grey,Not Recommended
+Rolls-Royce Ghost,98.22,13.9,5,Luxury,Hybrid,Automatic,New,Sports,Blue,Not Recommended
+Mercedes AMG GT,214.45,10.7,5,Luxury,Petrol,Manual,Used,Sports,Black,Not Recommended
+Porsche Cayenne,35.68,11.7,2,Luxury,Petrol,Manual,New,Sports,White,Recommended
+Rolls-Royce Ghost,52.0,13.8,5,Luxury,Petrol,Manual,New,Family,Blue,Recommended
+Lamborghini Huracan,147.36,8.4,4,Luxury,Petrol,Automatic,New,Family,Black,Not Recommended
+Bentley Continental GT,290.7,5.4,4,Luxury,Petrol,Manual,Used,Sports,Black,Not Recommended
+Audi A8L,34.42,14.1,5,Luxury,Hybrid,Manual,New,Luxury,White,Recommended
+BMW M4,101.84,13.9,4,Luxury,Hybrid,Automatic,Used,Luxury,White,Not Recommended
+Jaguar F-Type,70.9,5.8,2,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+BMW Z4,289.8,9.6,4,Luxury,Petrol,Manual,Used,Family,White,Not Recommended
+Bentley Continental GT,48.55,11.8,4,Luxury,Hybrid,Manual,Used,Luxury,Blue,Recommended
+Jaguar XF,256.55,10.3,5,Luxury,Diesel,Manual,New,Family,Blue,Not Recommended
+Porsche 911,32.87,14.7,2,Luxury,Diesel,Automatic,New,Family,Black,Recommended
+Ferrari Roma,43.46,11.7,4,Luxury,Diesel,Automatic,New,Sports,White,Not Recommended
+Lamborghini Huracan,267.08,7.4,4,Luxury,Petrol,Manual,Used,Family,Blue,Recommended
+Jaguar XF,147.99,8.6,5,Luxury,Hybrid,Manual,New,Luxury,Grey,Recommended
+Lexus LC500h,256.89,11.4,4,Luxury,Diesel,Manual,Used,Sports,White,Recommended
+Mercedes AMG GT,175.86,12.4,4,Luxury,Petrol,Manual,Used,Luxury,Black,Recommended
+Mercedes S-Class,231.77,11.1,5,Luxury,Diesel,Automatic,Used,Family,Black,Not Recommended
+Mercedes AMG GT,113.46,8.0,2,Luxury,Diesel,Manual,New,Luxury,Grey,Not Recommended
+BMW M5,59.04,11.7,4,Luxury,Hybrid,Manual,New,Family,Black,Recommended
+Mercedes S-Class,276.57,8.9,2,Luxury,Diesel,Manual,Used,Luxury,White,Not Recommended
+Mercedes AMG GT,82.84,5.4,4,Luxury,Hybrid,Manual,Used,Luxury,Red,Not Recommended
+Ferrari Roma,91.95,5.6,4,Luxury,Petrol,Automatic,New,Sports,Blue,Recommended
+Audi A8L,260.43,5.1,5,Luxury,Hybrid,Manual,New,Luxury,White,Not Recommended
+BMW Z4,249.8,13.6,4,Luxury,Diesel,Automatic,New,Family,Red,Recommended
+BMW M4,185.18,8.6,5,Luxury,Hybrid,Manual,Used,Family,Red,Not Recommended
+Audi A8L,237.86,13.6,5,Luxury,Petrol,Automatic,Used,Luxury,Red,Recommended
+Porsche Panamera,109.0,14.4,2,Luxury,Diesel,Manual,Used,Sports,Blue,Not Recommended
+BMW Z4,118.59,6.4,5,Luxury,Hybrid,Automatic,New,Sports,Red,Recommended
+Range Rover Sport,266.8,14.0,5,Luxury,Diesel,Manual,Used,Family,Grey,Not Recommended
+Audi A8L,114.27,8.1,4,Luxury,Hybrid,Manual,Used,Sports,Blue,Recommended
+Porsche Panamera,178.34,8.5,5,Luxury,Diesel,Manual,Used,Sports,Grey,Recommended
+BMW M5,35.54,6.0,5,Luxury,Hybrid,Manual,Used,Family,Black,Recommended
+Porsche 911,108.83,13.8,5,Luxury,Hybrid,Automatic,New,Family,White,Not Recommended
+Land Rover Range Rover,140.28,7.3,4,Luxury,Hybrid,Automatic,New,Luxury,Red,Recommended
+Rolls-Royce Ghost,57.28,8.9,2,Luxury,Hybrid,Automatic,New,Luxury,Grey,Recommended
+Jaguar F-Type,274.86,6.5,5,Luxury,Hybrid,Manual,New,Family,White,Recommended
+Porsche Cayenne,298.67,13.2,4,Luxury,Diesel,Automatic,New,Family,Red,Recommended
+BMW M4,147.92,13.1,2,Luxury,Petrol,Automatic,Used,Sports,White,Not Recommended
+Porsche Cayenne,160.62,9.3,2,Luxury,Diesel,Automatic,Used,Luxury,Black,Not Recommended
+Range Rover Sport,146.48,6.5,5,Luxury,Diesel,Automatic,Used,Sports,Blue,Not Recommended
+Audi RS5,227.47,11.0,5,Luxury,Hybrid,Manual,New,Family,Blue,Not Recommended
+BMW M5,211.84,5.7,2,Luxury,Hybrid,Automatic,Used,Luxury,Blue,Not Recommended
+Jaguar XF,197.46,12.9,5,Luxury,Hybrid,Automatic,Used,Sports,White,Not Recommended
+Bentley Continental GT,107.13,11.2,5,Luxury,Petrol,Manual,Used,Sports,Black,Not Recommended
+Audi RS7,260.81,14.0,2,Luxury,Hybrid,Manual,Used,Sports,Grey,Recommended
+Jaguar XF,132.74,12.7,2,Luxury,Diesel,Manual,New,Luxury,Blue,Recommended
+Lamborghini Huracan,166.51,13.0,4,Luxury,Hybrid,Automatic,Used,Luxury,Red,Not Recommended
+Lexus LC500h,241.95,13.7,2,Luxury,Diesel,Manual,Used,Luxury,Red,Recommended
+Jaguar F-Type,111.59,9.1,2,Luxury,Hybrid,Manual,Used,Sports,Red,Recommended
+Audi A8L,180.6,9.4,5,Luxury,Diesel,Manual,Used,Sports,Grey,Not Recommended
+Land Rover Range Rover,55.29,6.6,5,Luxury,Hybrid,Manual,New,Family,Grey,Not Recommended
+Lexus LC500h,48.98,7.7,5,Luxury,Diesel,Manual,New,Sports,Black,Recommended
+Lexus LC500h,72.92,6.1,5,Luxury,Diesel,Automatic,New,Luxury,Black,Not Recommended
+Land Rover Range Rover,188.61,10.1,2,Luxury,Petrol,Automatic,Used,Luxury,Black,Not Recommended
+BMW Z4,140.78,9.0,4,Luxury,Hybrid,Automatic,New,Luxury,White,Not Recommended
+Rolls-Royce Phantom,86.95,11.0,4,Luxury,Petrol,Manual,New,Family,White,Recommended
+Rolls-Royce Ghost,250.11,9.8,2,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Ferrari Roma,291.33,12.8,4,Luxury,Petrol,Automatic,New,Family,Red,Not Recommended
+Audi A8L,77.98,11.4,5,Luxury,Hybrid,Manual,Used,Family,Grey,Not Recommended
+Rolls-Royce Phantom,78.28,6.1,2,Luxury,Diesel,Automatic,Used,Sports,White,Recommended
+Jaguar F-Type,79.3,13.6,2,Luxury,Diesel,Manual,Used,Family,Black,Not Recommended
+Lexus LC500h,72.42,8.8,2,Luxury,Petrol,Manual,New,Family,Black,Not Recommended
+BMW M4,103.35,13.9,5,Luxury,Hybrid,Manual,New,Luxury,Blue,Recommended
+Range Rover Sport,250.37,10.7,4,Luxury,Diesel,Automatic,New,Luxury,Blue,Not Recommended
+Ferrari Roma,298.26,8.0,2,Luxury,Diesel,Manual,New,Family,White,Not Recommended
+Land Rover Range Rover,197.61,10.6,2,Luxury,Hybrid,Manual,Used,Sports,Red,Not Recommended
+Rolls-Royce Phantom,188.78,12.0,2,Luxury,Hybrid,Automatic,Used,Sports,Blue,Recommended
+Ferrari Roma,294.75,5.5,5,Luxury,Hybrid,Manual,Used,Family,White,Recommended
+BMW M4,256.21,7.5,4,Luxury,Diesel,Manual,New,Luxury,White,Recommended
+Audi RS7,279.34,5.8,5,Luxury,Hybrid,Automatic,Used,Sports,White,Not Recommended
+Lamborghini Huracan,200.95,6.8,2,Luxury,Hybrid,Automatic,Used,Luxury,Red,Recommended
+BMW M5,117.22,8.1,2,Luxury,Hybrid,Automatic,New,Sports,Grey,Not Recommended
+Mercedes AMG GT,81.52,13.6,4,Luxury,Hybrid,Manual,Used,Sports,White,Recommended
+Mercedes AMG GT,210.9,5.9,4,Luxury,Hybrid,Automatic,New,Sports,Blue,Recommended
+Lexus LC500h,269.47,8.5,2,Luxury,Hybrid,Manual,Used,Luxury,Grey,Recommended
+Aston Martin Vantage,173.72,6.4,2,Luxury,Hybrid,Manual,Used,Luxury,White,Not Recommended
+Range Rover Sport,48.87,9.2,2,Luxury,Petrol,Manual,New,Luxury,White,Not Recommended
+BMW Z4,30.23,6.7,5,Luxury,Petrol,Manual,Used,Luxury,Red,Recommended
+Bentley Continental GT,99.96,13.5,4,Luxury,Petrol,Manual,Used,Luxury,Grey,Not Recommended
+Porsche 911,258.98,12.0,4,Luxury,Petrol,Manual,Used,Luxury,Red,Not Recommended
+Audi RS7,44.25,10.6,5,Luxury,Hybrid,Manual,New,Family,White,Recommended
+Bentley Continental GT,215.14,11.7,4,Luxury,Petrol,Automatic,Used,Family,White,Recommended
+Aston Martin Vantage,234.12,12.5,2,Luxury,Hybrid,Automatic,Used,Sports,Grey,Not Recommended
+Lamborghini Huracan,196.42,10.2,4,Luxury,Diesel,Automatic,Used,Sports,Red,Not Recommended
+Audi RS7,257.62,6.5,2,Luxury,Diesel,Manual,New,Family,White,Recommended
+BMW M4,271.23,7.1,4,Luxury,Hybrid,Automatic,Used,Luxury,Red,Recommended
+Porsche 911,260.12,12.0,2,Luxury,Diesel,Manual,New,Luxury,White,Not Recommended
+Rolls-Royce Phantom,236.88,5.0,4,Luxury,Diesel,Manual,New,Sports,White,Recommended
+Mercedes S-Class,61.67,9.7,2,Luxury,Hybrid,Manual,Used,Luxury,Grey,Not Recommended
+Audi RS5,35.68,12.2,2,Luxury,Hybrid,Automatic,Used,Sports,Blue,Not Recommended
+Lamborghini Huracan,85.18,10.7,4,Luxury,Petrol,Manual,Used,Sports,Grey,Recommended
+Audi RS7,247.42,13.5,5,Luxury,Hybrid,Automatic,Used,Sports,Grey,Not Recommended
+Porsche Panamera,259.56,12.7,5,Luxury,Diesel,Automatic,New,Luxury,Grey,Not Recommended
+Porsche Panamera,107.29,8.3,5,Luxury,Hybrid,Automatic,Used,Sports,White,Recommended
+Lamborghini Huracan,150.03,8.3,2,Luxury,Petrol,Manual,Used,Family,Black,Not Recommended
+Ferrari Roma,141.84,6.2,4,Luxury,Petrol,Automatic,New,Sports,Black,Not Recommended
+Mercedes AMG GT,104.82,7.8,4,Luxury,Hybrid,Automatic,New,Sports,Blue,Not Recommended
+Mercedes S-Class,292.6,13.4,2,Luxury,Diesel,Automatic,Used,Luxury,Grey,Not Recommended
+Bentley Continental GT,203.06,13.9,2,Luxury,Petrol,Manual,Used,Sports,Grey,Not Recommended
+Rolls-Royce Ghost,174.84,13.8,2,Luxury,Petrol,Automatic,Used,Family,Black,Recommended
+Lamborghini Huracan,195.8,5.6,5,Luxury,Hybrid,Automatic,Used,Sports,Blue,Not Recommended
+Land Rover Range Rover,175.8,6.6,2,Luxury,Diesel,Manual,New,Family,Blue,Recommended
+Range Rover Sport,44.66,10.8,4,Luxury,Petrol,Automatic,New,Luxury,Black,Not Recommended
+Audi RS5,246.71,13.3,5,Luxury,Hybrid,Manual,Used,Luxury,White,Not Recommended
+BMW Z4,133.53,14.1,5,Luxury,Petrol,Manual,Used,Family,Black,Recommended
+BMW Z4,155.77,12.3,4,Luxury,Petrol,Manual,New,Sports,Grey,Not Recommended
+BMW Z4,252.28,11.1,5,Luxury,Hybrid,Automatic,New,Sports,Blue,Recommended
+Land Rover Range Rover,298.32,6.2,4,Luxury,Diesel,Automatic,New,Family,Grey,Recommended
+Audi A8L,246.97,10.0,4,Luxury,Diesel,Automatic,New,Sports,White,Recommended
+Jaguar XF,253.28,8.0,2,Luxury,Diesel,Automatic,Used,Family,Black,Recommended
+Mercedes AMG GT,155.31,12.0,2,Luxury,Hybrid,Automatic,New,Family,Blue,Not Recommended
+Jaguar XF,208.79,12.2,4,Luxury,Diesel,Manual,New,Luxury,White,Not Recommended
+Porsche 911,82.95,7.4,5,Luxury,Petrol,Manual,New,Family,White,Not Recommended
+Porsche 911,88.8,13.8,2,Luxury,Petrol,Automatic,New,Sports,Red,Not Recommended
+Mercedes S-Class,118.83,6.9,4,Luxury,Hybrid,Automatic,New,Family,Black,Not Recommended
+Jaguar F-Type,261.37,6.2,5,Luxury,Hybrid,Automatic,Used,Family,Black,Not Recommended
+Porsche Panamera,214.76,13.4,4,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+BMW M4,278.8,6.5,4,Luxury,Petrol,Automatic,Used,Luxury,Blue,Recommended
+BMW M4,273.85,6.6,2,Luxury,Hybrid,Manual,Used,Family,Red,Recommended
+Range Rover Sport,40.15,12.4,4,Luxury,Hybrid,Manual,New,Family,Grey,Recommended
+Audi A8L,235.76,9.2,5,Luxury,Petrol,Manual,Used,Luxury,Blue,Not Recommended
+Aston Martin Vantage,107.61,6.1,5,Luxury,Hybrid,Automatic,New,Luxury,Blue,Recommended
+Range Rover Sport,61.93,7.3,5,Luxury,Diesel,Automatic,New,Luxury,Blue,Not Recommended
+Jaguar XF,167.74,14.9,5,Luxury,Diesel,Automatic,Used,Luxury,Black,Not Recommended
+Ferrari Roma,151.02,14.5,4,Luxury,Petrol,Manual,Used,Family,White,Recommended
+Jaguar F-Type,134.74,11.3,4,Luxury,Diesel,Manual,Used,Sports,White,Recommended
+Bentley Continental GT,245.97,13.8,2,Luxury,Hybrid,Automatic,Used,Sports,White,Recommended
+BMW M5,215.79,11.2,4,Luxury,Hybrid,Manual,New,Luxury,Grey,Recommended
+Mercedes AMG GT,103.16,10.8,5,Luxury,Diesel,Manual,New,Family,Red,Not Recommended
+Lamborghini Huracan,245.95,11.9,4,Luxury,Petrol,Manual,Used,Family,Grey,Recommended
+Land Rover Range Rover,232.15,8.0,2,Luxury,Diesel,Manual,New,Sports,Red,Not Recommended
+BMW M4,161.59,6.0,4,Luxury,Hybrid,Automatic,Used,Luxury,Grey,Recommended
+Aston Martin Vantage,296.62,7.6,4,Luxury,Petrol,Automatic,Used,Family,Red,Not Recommended
+Audi RS5,185.38,6.8,4,Luxury,Diesel,Manual,Used,Sports,Red,Not Recommended
+Audi RS7,76.12,6.2,5,Luxury,Diesel,Manual,Used,Family,Grey,Recommended
+Audi RS5,137.67,11.2,5,Luxury,Hybrid,Automatic,New,Luxury,Red,Not Recommended
+Mercedes S-Class,285.89,11.2,4,Luxury,Hybrid,Automatic,New,Family,White,Not Recommended
+Mercedes AMG GT,97.49,6.4,5,Luxury,Petrol,Automatic,New,Family,Blue,Not Recommended
+Mercedes AMG GT,270.26,10.3,2,Luxury,Diesel,Automatic,New,Sports,Black,Recommended
+Porsche Cayenne,210.03,6.4,5,Luxury,Hybrid,Manual,New,Sports,Blue,Recommended
+Porsche Cayenne,172.08,12.5,4,Luxury,Diesel,Automatic,New,Sports,Black,Not Recommended
+Porsche Cayenne,169.34,13.3,5,Luxury,Diesel,Manual,Used,Family,Blue,Recommended
+BMW M4,221.21,8.1,4,Luxury,Diesel,Manual,Used,Family,Red,Not Recommended
+Rolls-Royce Phantom,120.82,13.4,2,Luxury,Petrol,Automatic,New,Sports,Grey,Recommended
+Lamborghini Huracan,228.31,14.2,4,Luxury,Diesel,Automatic,Used,Family,Blue,Recommended
+Lexus LC500h,128.53,6.4,2,Luxury,Diesel,Manual,Used,Luxury,Black,Not Recommended
+Aston Martin Vantage,154.72,8.6,4,Luxury,Diesel,Automatic,New,Family,Blue,Recommended
+Rolls-Royce Phantom,34.41,14.9,5,Luxury,Petrol,Automatic,New,Luxury,Red,Not Recommended
+Lexus LC500h,263.93,9.8,5,Luxury,Hybrid,Manual,Used,Sports,White,Not Recommended
+Jaguar F-Type,138.89,9.0,2,Luxury,Petrol,Manual,Used,Family,Black,Not Recommended
+Audi A8L,115.49,12.5,5,Luxury,Petrol,Manual,Used,Luxury,White,Not Recommended
+Mercedes AMG GT,299.77,12.0,4,Luxury,Petrol,Automatic,Used,Sports,Black,Not Recommended
+Lamborghini Huracan,80.36,14.6,5,Luxury,Diesel,Manual,New,Family,Red,Not Recommended
+Audi RS5,146.83,8.1,4,Luxury,Petrol,Automatic,New,Luxury,Red,Recommended
+Audi RS7,267.64,14.6,4,Luxury,Hybrid,Automatic,New,Family,Black,Not Recommended
+Rolls-Royce Phantom,296.48,14.7,2,Luxury,Diesel,Manual,Used,Luxury,Blue,Not Recommended
+Land Rover Range Rover,294.67,9.3,2,Luxury,Petrol,Manual,New,Sports,Red,Recommended
+BMW M4,234.55,14.6,2,Luxury,Hybrid,Manual,Used,Family,White,Recommended
+BMW M4,261.12,9.8,2,Luxury,Hybrid,Automatic,Used,Family,Black,Recommended
+BMW M4,297.29,14.0,4,Luxury,Diesel,Manual,New,Luxury,Grey,Not Recommended
+Jaguar F-Type,114.61,6.3,4,Luxury,Diesel,Manual,New,Sports,Blue,Not Recommended
+Range Rover Sport,160.02,14.7,5,Luxury,Hybrid,Manual,New,Sports,Grey,Recommended
+Audi RS5,188.58,10.1,4,Luxury,Diesel,Manual,Used,Family,Black,Not Recommended
+Rolls-Royce Ghost,277.93,7.2,2,Luxury,Petrol,Automatic,Used,Luxury,Grey,Not Recommended
+Porsche Panamera,178.44,12.0,2,Luxury,Hybrid,Manual,Used,Sports,Red,Not Recommended
+Aston Martin Vantage,274.36,10.1,4,Luxury,Diesel,Automatic,New,Family,Blue,Recommended
+Land Rover Range Rover,78.49,8.4,4,Luxury,Hybrid,Automatic,Used,Family,Red,Not Recommended
+Jaguar XF,129.4,12.4,5,Luxury,Hybrid,Automatic,Used,Luxury,Grey,Recommended
+BMW Z4,95.49,11.6,5,Luxury,Diesel,Manual,New,Luxury,Red,Not Recommended
+Aston Martin Vantage,211.38,11.4,4,Luxury,Petrol,Manual,Used,Luxury,Red,Not Recommended
+BMW Z4,162.42,6.3,5,Luxury,Diesel,Manual,New,Luxury,Black,Recommended
+Land Rover Range Rover,130.49,11.3,2,Luxury,Diesel,Automatic,Used,Sports,Grey,Not Recommended
+Mercedes AMG GT,222.39,5.7,2,Luxury,Diesel,Automatic,New,Sports,Grey,Not Recommended
+Rolls-Royce Ghost,241.94,6.0,2,Luxury,Hybrid,Manual,New,Sports,Red,Not Recommended
+Lexus LC500h,54.97,13.9,2,Luxury,Petrol,Automatic,Used,Luxury,Grey,Not Recommended
+Porsche Cayenne,298.84,14.4,5,Luxury,Diesel,Automatic,New,Family,Black,Recommended
+Ferrari Roma,291.95,9.6,5,Luxury,Petrol,Automatic,New,Family,Black,Not Recommended
+Mercedes S-Class,82.76,5.8,2,Luxury,Hybrid,Automatic,Used,Family,Black,Recommended
+Land Rover Range Rover,269.03,12.5,4,Luxury,Hybrid,Manual,New,Family,Black,Not Recommended
+Aston Martin Vantage,71.08,9.5,5,Luxury,Hybrid,Automatic,Used,Family,Black,Not Recommended
+Jaguar F-Type,46.51,7.1,5,Luxury,Diesel,Manual,Used,Sports,Blue,Recommended
+Audi RS7,108.23,14.7,2,Luxury,Diesel,Automatic,New,Sports,Black,Recommended
+Range Rover Sport,47.43,10.5,2,Luxury,Diesel,Automatic,Used,Family,White,Recommended
+Audi A8L,33.93,7.5,2,Luxury,Hybrid,Automatic,New,Luxury,White,Not Recommended
+Bentley Continental GT,58.79,6.8,4,Luxury,Petrol,Manual,New,Family,Blue,Not Recommended
+Range Rover Sport,108.12,12.9,2,Luxury,Petrol,Manual,Used,Sports,White,Not Recommended
+Porsche Panamera,52.57,10.8,5,Luxury,Hybrid,Automatic,New,Luxury,Blue,Recommended
+Audi A8L,297.42,7.0,4,Luxury,Hybrid,Manual,New,Family,Blue,Recommended
+Audi RS5,262.55,7.1,2,Luxury,Petrol,Manual,Used,Luxury,Red,Recommended
+BMW Z4,274.0,5.9,5,Luxury,Diesel,Automatic,Used,Sports,Blue,Recommended
+Porsche Cayenne,213.41,7.6,2,Luxury,Diesel,Automatic,Used,Sports,White,Not Recommended
+Lamborghini Huracan,173.7,8.0,2,Luxury,Diesel,Manual,New,Sports,Grey,Recommended
+Audi RS7,54.7,14.3,4,Luxury,Petrol,Manual,New,Family,Red,Not Recommended
+Audi RS7,299.69,8.1,4,Luxury,Petrol,Automatic,Used,Luxury,Black,Not Recommended
+Jaguar XF,250.48,14.1,5,Luxury,Hybrid,Automatic,Used,Sports,Blue,Recommended
+Porsche 911,192.32,12.9,5,Luxury,Diesel,Manual,New,Sports,Blue,Recommended
+Audi RS5,44.58,11.2,4,Luxury,Hybrid,Automatic,New,Family,Red,Recommended
+BMW M4,140.16,6.5,5,Luxury,Hybrid,Manual,Used,Sports,White,Not Recommended
+BMW M4,91.13,10.1,2,Luxury,Petrol,Manual,New,Sports,White,Not Recommended
+Audi A8L,240.51,13.2,2,Luxury,Hybrid,Automatic,New,Luxury,Blue,Not Recommended
+Audi RS5,132.58,12.2,5,Luxury,Hybrid,Automatic,New,Sports,White,Recommended
+BMW M4,253.57,14.6,5,Luxury,Diesel,Automatic,Used,Luxury,White,Recommended
+Range Rover Sport,136.64,5.7,4,Luxury,Diesel,Automatic,Used,Sports,Red,Recommended
+Jaguar XF,167.88,12.8,2,Luxury,Hybrid,Manual,New,Luxury,Grey,Not Recommended
+Jaguar XF,244.44,9.0,5,Luxury,Diesel,Manual,New,Luxury,Blue,Not Recommended
+BMW M5,237.52,13.6,5,Luxury,Hybrid,Manual,Used,Luxury,Red,Recommended
+Rolls-Royce Ghost,198.18,14.0,2,Luxury,Hybrid,Automatic,Used,Sports,White,Recommended
+Aston Martin Vantage,282.45,12.4,5,Luxury,Petrol,Manual,Used,Family,Blue,Recommended
+Lexus LC500h,50.26,12.5,4,Luxury,Diesel,Automatic,New,Luxury,Black,Recommended
+BMW M4,291.59,11.2,5,Luxury,Diesel,Automatic,New,Family,Grey,Recommended
+Bentley Continental GT,264.87,11.8,2,Luxury,Hybrid,Manual,New,Luxury,Black,Not Recommended
+Lexus LC500h,33.84,6.3,4,Luxury,Petrol,Automatic,New,Sports,Blue,Not Recommended
+Porsche 911,203.93,12.0,2,Luxury,Diesel,Automatic,New,Family,Blue,Not Recommended
+Porsche 911,168.5,10.9,5,Luxury,Diesel,Automatic,Used,Family,Grey,Not Recommended
+Porsche Cayenne,156.0,11.9,2,Luxury,Diesel,Automatic,Used,Family,Black,Not Recommended
+BMW M5,299.71,11.1,2,Luxury,Diesel,Automatic,Used,Luxury,Black,Recommended
+Rolls-Royce Ghost,170.92,6.4,5,Luxury,Hybrid,Manual,New,Luxury,Red,Recommended
+BMW Z4,92.1,7.2,2,Luxury,Petrol,Manual,New,Sports,Red,Recommended
+Mercedes AMG GT,212.57,7.1,4,Luxury,Hybrid,Automatic,Used,Family,Grey,Recommended
+Aston Martin Vantage,104.64,11.8,5,Luxury,Petrol,Automatic,Used,Sports,White,Recommended
+Rolls-Royce Phantom,41.29,13.8,5,Luxury,Petrol,Manual,Used,Sports,Black,Recommended
